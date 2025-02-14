@@ -2,8 +2,11 @@
 
 This repository is designed to collect and categorize papers related to Multimodal Retrieval-Augmented Generation (RAG) according to our survey paper: [From Text to Multimodality: A Survey on Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2502.08826). Given the rapid growth in this field, we will continuously update both the paper and this repository to serve as a resource for researchers working on future projects.
 
-## Overview
-![MM-RAG-500](https://github.com/user-attachments/assets/02a90e4a-5431-42fc-afa4-75bcf5cec8bf)
+## General Pipeline of Multimodal RAG
+![output-onlinepngtools (1)](https://github.com/user-attachments/assets/fabab7c0-9ca3-4d0b-b4d5-fb46defc8620)
+
+## Taxonomy of recent advances and enhancements in multimodal RAG
+![Multimodal_Retrieval_Augmented_Generation__A_Survey__V2__organized (1) (cropped) (pdfresizer com) (1)_page-0001](https://github.com/user-attachments/assets/987874e8-bfa5-4563-8949-676d17cdaedb)
 
 
 ## Abstract
