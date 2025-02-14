@@ -60,6 +60,20 @@ If you find our paper, code, data, or models useful, please cite the paper:
 | MSVD            | 1,970 videos with approximately 40 captions per video.                                                         | Video, Text      | [MSVD](https://www.cs.utexas.edu/~ml/clamp/videoDescription/)                                       |
 | LSMDC           | 118,081 video–text pairs from 202 movies; a movie description dataset.                                         | Video, Text      | [LSMDC](https://sites.google.com/site/describingmovies/)                                            |
 | DiDemo          | 10,000 videos with four concatenated captions per video; with temporal localization of events.                  | Video, Text      | [DiDemo](https://github.com/LisaAnne/TemporalLanguageRelease)                                       |
+| Breakfast            | 1,712 videos of breakfast preparation; one of the largest fully annotated video datasets.                       | Video, Text      | [Breakfast](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/)                   |
+| COIN                 | 11,827 instructional YouTube videos across 180 tasks; for comprehensive instructional video analysis.            | Video, Text      | [COIN](https://coin-dataset.github.io/)                                                             |
+| MSRVTT-QA            | Video question answering benchmark.                                                                             | Video, Text      | [MSRVTT-QA](https://github.com/xudejing/video-question-answering)                                   |
+| MSVD-QA              | 1,970 video clips with approximately 50.5K QA pairs; video QA dataset.                                          | Video, Text      | [MSVD-QA](https://github.com/xudejing/video-question-answering)                                     |
+| ActivityNet-QA       | 58,000 human–annotated QA pairs on 5,800 videos; benchmark for video QA models.                                 | Video, Text      | [ActivityNet-QA](https://github.com/MILVLG/activitynet-qa)                                          |
+| EpicKitchens-100     | 700 videos (100 hours of cooking activities) for online action prediction; egocentric vision dataset.           | Video, Text      | [EPIC-KITCHENS-100](https://epic-kitchens.github.io/2021/)                                         |
+| Ego4D                | 4.3M video–text pairs for egocentric videos; massive-scale egocentric video dataset.                            | Video, Text      | [Ego4D](https://ego4d-data.org/)                                                                    |
+| HowTo100M            | 136M video clips with captions from 1.2M YouTube videos; for learning text–video embeddings.                    | Video, Text      | [HowTo100M](https://www.di.ens.fr/willow/research/howto100m/)                                       |
+| CharadesEgo          | 68,536 activity instances from ego–exo videos; used for evaluation.                                             | Video, Text      | [Charades-Ego](https://prior.allenai.org/projects/charades-ego)                                     |
+| ActivityNet Captions | 20K videos with 3.7 temporally localized sentences per video; dense-captioning events in videos.                 | Video, Text      | [ActivityNet Captions](https://cs.stanford.edu/people/ranjaykrishna/densevid/)                      |
+| VATEX                | 34,991 videos, each with multiple captions; a multilingual video-and-language dataset.                          | Video, Text      | [VATEX](https://eric-xw.github.io/vatex-website/)                                                   |
+| Charades             | 9,848 video clips with textual descriptions; a multimodal research dataset.                                     | Video, Text      | [Charades](https://allenai.org/plato/charades/)                                                     |
+| WebVid               | 10M video–text pairs (refined to WebVid-Refined-1M).                                                            | Video, Text      | [WebVid](https://github.com/m-bain/webvid)                                                          |
+| Youku-mPLUG          | Chinese dataset with 10M video–text pairs (refined to Youku-Refined-1M).                                        | Video, Text      | [Youku-mPLUG](https://github.com/X-PLUG/Youku-mPLUG)   
 
 ---
 
@@ -70,6 +84,62 @@ If you find our paper, code, data, or models useful, please cite the paper:
 | LibriSpeech     | 1,000 hours of read English speech with corresponding text; ASR corpus based on audiobooks.                     | Audio, Text      | [LibriSpeech](https://www.openslr.org/12)                                                           |
 | AudioCap        | 46K audio clips paired with human-written text captions.                                                       | Audio, Text      | [AudioCaps](https://audiocaps.github.io/)                                                           |
 | AudioSet        | 2M human-labeled sound clips from YouTube across diverse audio event classes (e.g., music or environmental).     | Audio            | [AudioSet](https://research.google.com/audioset/)                                                   |
+
+---
+
+### Medical
+
+| **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
+|------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
+| MIMIC-CXR       | 125,417 labeled chest X-rays with reports; widely used for medical imaging research.                            | Image, Text      | [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/)                                         |
+| CheXpert        | 224,316 chest radiographs of 65,240 patients; focused on medical analysis.                                      | Image, Text      | [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/)                               |
+| MIMIC-III       | Health-related data from over 40K patients; includes clinical notes and structured data.                        | Text             | [MIMIC-III](https://mimic.physionet.org/)                                                           |
+| IU-Xray         | 7,470 pairs of chest X-rays and corresponding diagnostic reports.                                               | Image, Text      | [IU-Xray](https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university)                   |
+| PubLayNet       | 100,000 training samples and 2,160 test samples built from PubLayNet for document layout analysis.              | Image, Text      | [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet)                                               |
+
+---
+
+### Fashion
+
+| **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
+|------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
+| Fashion-IQ       | 77,684 images across three categories; evaluated with Recall@10 and Recall@50 metrics.                         | Image, Text      | [Fashion-IQ](https://github.com/XiaoxiaoGuo/fashion-iq)                                             |
+| FashionGen       | 260.5K image–text pairs of fashion images and item descriptions.                                               | Image, Text      | [FashionGen](https://www.elementai.com/datasets/fashiongen)                                         |
+| VITON-HD         | 83K images for virtual try-on; high-resolution clothing items dataset.                                         | Image, Text      | [VITON-HD](https://github.com/shadow2496/VITON-HD)                                                  |
+| Fashionpedia     | 48,000 fashion images annotated with segmentation masks and fine-grained attributes.                           | Image, Text      | [Fashionpedia](https://fashionpedia.ai/)                                                            |
+| DeepFashion      | Approximately 800K diverse fashion images for pseudo triplet generation.                                       | Image, Text      | [DeepFashion](https://github.com/zalandoresearch/fashion-mnist)                                     |
+
+---
+
+### Knowledge & QA
+
+| **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
+|------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
+| VQA              | 400K QA pairs with images for visual question-answering tasks.                                                 | Image, Text      | [VQA](https://visualqa.org/)                                                                        |
+| PAQ              | 65M text-based QA pairs; a large-scale dataset for open-domain QA tasks.                                       | Text             | [PAQ](https://github.com/facebookresearch/PAQ)                                                      |
+| ELI5             | 270K complex questions augmented with web pages and images; designed for long-form QA tasks.                   | Text             | [ELI5](https://facebookresearch.github.io/ELI5/)                                                    |
+| OK-VQA           | 14K questions requiring external knowledge for visual question answering tasks.                                | Image, Text      | [OK-VQA](https://okvqa.allenai.org/)                                                                |
+| WebQA            | 46K queries requiring reasoning across text and images; multimodal QA dataset.                                 | Text, Image      | [WebQA](https://webqna.github.io/)                                                                  |
+| Infoseek         | Fine-grained visual knowledge retrieval using a Wikipedia-based knowledge base (~6M passages).                 | Image, Text      | [Infoseek](https://open-vision-language.github.io/infoseek/)                                        |
+| ClueWeb22        | 10 billion web pages organized into subsets; a large-scale web corpus for retrieval tasks.                     | Text             | [ClueWeb22](https://lemurproject.org/clueweb22/)                                                    |
+| MOCHEG           | 15,601 claims annotated with truthfulness labels and accompanied by textual and image evidence.                | Text, Image      | [MOCHEG](https://github.com/VT-NLP/Mocheg)                                                          |
+| VQA v2           | 1.1M questions (augmented with VG-QA questions) for fine-tuning VQA models.                                    | Image, Text      | [VQA v2](https://visualqa.org/)                                                                     |
+| ScienceQA        | High-school science curriculum dataset with 12K training samples and over 21K questions across various subjects. | Text             | [ScienceQA](https://scienceqa.github.io/)                                                           |
+| A-OKVQA          | Benchmark for visual question answering using world knowledge; around 25K questions.                          | Image, Text      | [A-OKVQA](https://github.com/allenai/aokvqa)                                                        |
+| MMBench          | Bilingual benchmark for assessing multimodal capabilities of vision-language models (VLMs); over 3,000 multiple-choice questions covering 20 dimensions. | Text             | [MMBench](https://github.com/OpenCompass/OpenCompass)                                               |
+| XL-HeadTags      | 415K news headline-article pairs spanning 20 languages across six diverse language families.                    | Text             | [XL-HeadTags](https://huggingface.co/datasets/faisaltareque/XL-HeadTags)                            |
+| SEED-Bench       | 19K multiple-choice questions with accurate human annotations across 12 evaluation dimensions.                 | Text             | [SEED-Bench](https://github.com/AILab-CVC/SEED-Bench)                                               |
+
+---
+
+### Other
+
+| **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
+|------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
+| ImageNet         | 14M labeled images across thousands of categories; used as a benchmark in computer vision research.             | Image            | [ImageNet](http://www.image-net.org/)                                                               |
+| Oxford Flowers102| Dataset of flowers with 102 categories for fine-grained image classification tasks.                            | Image            | [Oxford Flowers102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)                            |
+| Stanford Cars    | Images of different car models (five examples per model); used for fine-grained categorization tasks.           | Image            | [Stanford Cars](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)                |
+| GeoDE            | 61,940 images from 40 classes across six world regions; emphasizes geographic diversity in object recognition.   | Image            | [GeoDE](https://github.com/AliRamazani/GeoDE)                                                       |
 
 ---
 
