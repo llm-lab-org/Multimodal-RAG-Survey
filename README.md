@@ -29,6 +29,50 @@ If you find our paper, code, data, or models useful, please cite the paper:
 }
 ```
 
+## Overview of Popular Datasets in Multimodal RAG Research
+
+### Image-Text General
+
+| **Name**         | **Statistics and Description**                                                                 | **Modalities** | **Link**                                                                                             |
+|------------------|-------------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------|
+| LAION-400M      | 200M image–text pairs; used for pre-training multimodal models.                                 | Image, Text    | [LAION-400M](https://laion.ai/projects/laion-400-mil-open-dataset/)                                 |
+| Conceptual-Captions (CC) | 15M image–caption pairs; multilingual English–German image descriptions.                       | Image, Text    | [Conceptual Captions](https://github.com/google-research-datasets/conceptual-captions)             |
+| CIRR            | 36,554 triplets from 21,552 images; focuses on natural image relationships.                    | Image, Text    | [CIRR](https://github.com/Cuberick-Orion/CIRR)                                                      |
+| MS-COCO         | 330K images with captions; used for caption-to-image and image-to-caption generation.          | Image, Text    | [MS-COCO](https://cocodataset.org/)                                                                 |
+| Flickr30K       | 31K images annotated with five English captions per image.                                     | Image, Text    | [Flickr30K](https://shannon.cs.illinois.edu/DenotationGraph/)                                      |
+| Multi30K        | 30K German captions from native speakers and human-translated captions.                        | Image, Text    | [Multi30K](https://github.com/multi30k/dataset)                                                    |
+| NoCaps          | For zero-shot image captioning evaluation; 15K images.                                         | Image, Text    | [NoCaps](https://nocaps.org/)                                                                       |
+| Laion-5B        | 5B image–text pairs used as external memory for retrieval.                                     | Image, Text    | [LAION-5B](https://laion.ai/blog/laion-5b/)                                                        |
+| COCO-CN         | 20,341 images for cross-lingual tagging and captioning with Chinese sentences.                 | Image, Text    | [COCO-CN](https://github.com/li-xirong/coco-cn)                                                    |
+| CIRCO           | 1,020 queries with an average of 4.53 ground truths per query; for composed image retrieval.   | Image, Text    | [CIRCO](https://github.com/miccunifi/CIRCO)                                                        |
+
+---
+
+### Video-Text
+
+| **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
+|------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
+| BDD-X           | 77 hours of driving videos with expert textual explanations; for explainable driving behavior.                  | Video, Text      | [BDD-X](https://github.com/JinkyuKimUCB/BDD-X-dataset)                                              |
+| YouCook2        | 2,000 cooking videos with aligned descriptions; focused on video–text tasks.                                   | Video, Text      | [YouCook2](https://youcook2.eecs.umich.edu/)                                                        |
+| ActivityNet     | 20,000 videos with multiple captions; used for video understanding and captioning.                              | Video, Text      | [ActivityNet](http://activity-net.org/)                                                             |
+| SoccerNet       | Videos and metadata for 550 soccer games; includes transcribed commentary and key event annotations.            | Video, Text      | [SoccerNet](https://www.soccer-net.org/)                                                            |
+| MSR-VTT         | 10,000 videos with 20 captions each; a large video description dataset.                                         | Video, Text      | [MSR-VTT](https://ms-multimedia-challenge.com/2016/dataset)                                         |
+| MSVD            | 1,970 videos with approximately 40 captions per video.                                                         | Video, Text      | [MSVD](https://www.cs.utexas.edu/~ml/clamp/videoDescription/)                                       |
+| LSMDC           | 118,081 video–text pairs from 202 movies; a movie description dataset.                                         | Video, Text      | [LSMDC](https://sites.google.com/site/describingmovies/)                                            |
+| DiDemo          | 10,000 videos with four concatenated captions per video; with temporal localization of events.                  | Video, Text      | [DiDemo](https://github.com/LisaAnne/TemporalLanguageRelease)                                       |
+
+---
+
+### Audio-Text
+
+| **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
+|------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
+| LibriSpeech     | 1,000 hours of read English speech with corresponding text; ASR corpus based on audiobooks.                     | Audio, Text      | [LibriSpeech](https://www.openslr.org/12)                                                           |
+| AudioCap        | 46K audio clips paired with human-written text captions.                                                       | Audio, Text      | [AudioCaps](https://audiocaps.github.io/)                                                           |
+| AudioSet        | 2M human-labeled sound clips from YouTube across diverse audio event classes (e.g., music or environmental).     | Audio            | [AudioSet](https://research.google.com/audioset/)                                                   |
+
+---
+
 ## Paper Collection
 ### RAG-related Surveys
 - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
