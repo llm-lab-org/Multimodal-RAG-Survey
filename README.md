@@ -6,7 +6,10 @@ This repository is designed to collect and categorize papers related to Multimod
 ![output-onlinepngtools (1)](https://github.com/user-attachments/assets/fabab7c0-9ca3-4d0b-b4d5-fb46defc8620)
 
 ## Taxonomy of recent advances and enhancements in multimodal RAG
-![Multimodal_Retrieval_Augmented_Generation__A_Survey__V2__organized (1) (cropped) (pdfresizer com) (1)_page-0001](https://github.com/user-attachments/assets/987874e8-bfa5-4563-8949-676d17cdaedb)
+![6634_Ask_in_Any_Modality_A_Com_organized-1-cropped](https://github.com/user-attachments/assets/0b5cd8e6-1aef-402b-a0a3-e3bf5cf555ae)
+
+## Taxonomy of application domains for multimodal RAG.
+![6634_Ask_in_Any_Modality_A_Com_organized-2-cropped](https://github.com/user-attachments/assets/f46ac78b-f51a-43c4-90bc-938d441093f2)
 
 
 ## Abstract
@@ -82,6 +85,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 | **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
 |------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
 | LibriSpeech     | 1,000 hours of read English speech with corresponding text; ASR corpus based on audiobooks.                     | Audio, Text      | [LibriSpeech](https://www.openslr.org/12)                                                           |
+| SpeechBrown     | 55K paired speech-text samples; 15 categories covering diverse topics from religion to fiction.                 | Audio, Text      | [SpeechBrown](https://huggingface.co/datasets/llm-lab/SpeechBrown)                                   |
 | AudioCap        | 46K audio clips paired with human-written text captions.                                                       | Audio, Text      | [AudioCaps](https://audiocaps.github.io/)                                                           |
 | AudioSet        | 2M human-labeled sound clips from YouTube across diverse audio event classes (e.g., music or environmental).     | Audio            | [AudioSet](https://research.google.com/audioset/)                                                   |
 
