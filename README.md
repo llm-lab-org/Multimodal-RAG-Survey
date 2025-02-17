@@ -1,4 +1,4 @@
-# From Text to Multimodality: A Survey on Multimodal Retrieval-Augmented Generation
+# From Text to Multimodality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2502.08826)
 
