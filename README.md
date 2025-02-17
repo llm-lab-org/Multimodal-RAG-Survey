@@ -188,6 +188,8 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://api.semanticscholar.org/CorpusID:274192536)  
 - [RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](https://aclanthology.org/2024.fever-1.29/)
 
+**This README is a work in progress and will be completed soon. Stay tuned for more updates!**
+
 ---
 ## Contact
 If you have questions, please send an email to mahdi.abootorabi2@gmail.com.
