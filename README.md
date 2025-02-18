@@ -1,4 +1,4 @@
-# From Text to Multimodality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation
+# Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2502.08826)
 
@@ -206,7 +206,26 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](https://aclanthology.org/2024.fever-1.29/)  
 - [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2412.10704)  
 - [Self-adaptive Multimodal Retrieval-Augmented Generation](https://paperswithcode.com/paper/self-adaptive-multimodal-retrieval-augmented)  
-- [LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657740)  
+- [LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657740)
+
+#### Instruction Tuning 
+
+- [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2410.14154)  
+- [InstructBLIP: towards general-purpose vision-language models with instruction tuning](https://dl.acm.org/doi/10.5555/3666122.3668264)  
+- [Retrieval-Augmented Dynamic Prompt Tuning for Incomplete Multimodal Learning](https://arxiv.org/abs/2501.01120v1)  
+- [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://arxiv.org/html/2411.15041)  
+- [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training (RagVL)](https://arxiv.org/abs/2407.21439)  
+- [Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval](https://arxiv.org/abs/2404.15516)
+- [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085)
+- [MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval](https://arxiv.org/abs/2412.14475)  
+- [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](https://arxiv.org/abs/2409.14083)
+- [Rule: Reliable multimodal rag for factuality in medical vision language models](https://arxiv.org/abs/2407.05131)
+
+#### Source Attribution and Evidence Transparency 
+
+- [MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://arxiv.org/abs/2408.08521)  
+- [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://arxiv.org/abs/2412.14457)  
+- [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75.pdf)
 
 **This README is a work in progress and will be completed soon. Stay tuned for more updates!**
 
