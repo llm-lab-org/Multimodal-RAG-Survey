@@ -190,6 +190,24 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://api.semanticscholar.org/CorpusID:274192536)  
 - [RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](https://aclanthology.org/2024.fever-1.29/)
 
+
+### Generation Technique
+#### In-Context Learning 
+
+- [Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning](https://arxiv.org/abs/2405.20834)  
+- [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311)  
+- [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html)  
+- [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828)  
+- [How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning? (MSIER)](https://aclanthology.org/2024.emnlp-main.305/)  
+- [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150)
+
+#### Reasoning 
+
+- [RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](https://aclanthology.org/2024.fever-1.29/)  
+- [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2412.10704)  
+- [Self-adaptive Multimodal Retrieval-Augmented Generation](https://paperswithcode.com/paper/self-adaptive-multimodal-retrieval-augmented)  
+- [LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657740)  
+
 **This README is a work in progress and will be completed soon. Stay tuned for more updates!**
 
 ---
