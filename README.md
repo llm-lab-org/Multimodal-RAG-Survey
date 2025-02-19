@@ -167,6 +167,8 @@ If you find our paper, code, data, or models useful, please cite the paper:
 
 ### Retrieval Strategies Advances
 #### Maximum Inner Product Search (MIPS)
+- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation]([https://arxiv.org/abs/2407.15268])
+
 
 ### Augmentation Technique
 #### Context-Enrichment 
