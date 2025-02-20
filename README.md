@@ -15,7 +15,7 @@ This repository is designed to collect and categorize papers related to Multimod
   - [🔗 Citations](#-Citations)
   - [📊 Overview of Popular Datasets](#-Overview-of-Popular-Datasets)
     - [🖼 Image-Text](#-Image-Text)
-    - [🧠 General Multimodal RAG](#-general-multimodal-rag)
+    - [🎞 Video-Text](#-Video-Text)
     - [📄 Multimodal Document RAG](#-multimodal-document-rag)
     - [🔍 Domain-Specific Multimodal RAG](#-domain-specific-multimodal-rag)
   - [📊 Datasets](#-datasets)
@@ -75,7 +75,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 
 ---
 
-### Video-Text
+### 🎞 Video-Text
 
 | **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
 |------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
