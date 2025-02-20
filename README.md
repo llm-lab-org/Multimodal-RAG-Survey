@@ -24,7 +24,7 @@ This repository is designed to collect and categorize papers related to Multimod
     - [🌎 Other](#-Other)
   - [📄 Papers](#-Papers)
     - [📚 RAG-related Surveys](#-RAG-related-Surveys)
-    - [Retrieval Strategies Advances](#-retrieval-strategies-advances)
+    - [👓 Retrieval Strategies Advances](#-retrieval-strategies-advances)
       - [Efficient-Search and Similarity Retrieval](#-Efficient-Search-and-Similarity-Retrieval)
     - [🔊 Audio-Text](#-Audio-Text)
     - [🩺 Medical](#-Medical)
@@ -200,7 +200,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136)
 
 
-### Retrieval Strategies Advances
+### 👓 Retrieval Strategies Advances
 #### Efficient-Search and Similarity Retrieval
 - [ADQ: Adaptive Dataset Quantization](https://arxiv.org/abs/2412.16895)
 - [Query-Aware Quantization for Maximum Inner Product Search](https://ojs.aaai.org/index.php/AAAI/article/view/25613)
