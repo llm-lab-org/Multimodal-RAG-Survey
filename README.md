@@ -45,19 +45,13 @@ This repository is designed to collect and categorize papers related to Multimod
       - [💰 Context-Enrichment](#-Context-Enrichment)
       - [🎡 Adaptive and Iterative Retrieval](#-Adaptive-and-Iterative-Retrieval)
       - [🧩 Unified Frameworkes](#-Unified-Frameworkes)
-
-    - [🔊 Audio-Text](#-Audio-Text)
-    - [🩺 Medical](#-Medical)
-    - [👗 Fashion](#-Fashion)
-    - [🩺 Medical](#-Medical)
-    - [💡 QA](#-QA)
-    - [🌎 Other](#-Other)
-  - [🔧 Tools and Frameworks](#-tools-and-frameworks)
-  - [📈 Benchmarks and Metrics](#-benchmarks-and-metrics)
-  - [🚀 Open Challenges](#-open-challenges)
-  - [🤝 Contributing](#-contributing)
-  - [🙏 Acknowledgments](#-acknowledgments)
-
+    - [🤖 Generation Techniques](#-Generation-Techniques)
+      - [🧠 In-Context Learning](#-In-Context-Learning)
+      - [👨‍⚖️ Reasoning](#-Reasoning)
+      - [🤺 Instruction Tuning](#-Instruction-Tuning)
+      - [📂 Source Attribution and Evidence Transparency](#-Source-Attribution-and-Evidence-Transparency)        
+- [📧 Contact](#-Contact)
+     
 
 ## 🔎 General Pipeline
 ![output-onlinepngtools (1)](https://github.com/user-attachments/assets/fabab7c0-9ca3-4d0b-b4d5-fb46defc8620)
@@ -278,7 +272,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](https://aclanthology.org/2024.fever-1.29/)
 
 
-### 🤖 Generation Technique
+### 🤖 Generation Techniques
 #### 🧠 In-Context Learning 
 - [Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning](https://arxiv.org/abs/2405.20834)  
 - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311)  
