@@ -13,6 +13,7 @@ This repository is designed to collect and categorize papers related to Multimod
   - [⚙ Taxonomy of Application Domains](#-Taxonomy-of-Application-Domains)
   - [📝 Abstarct](#-Abstarct)
   - [🔗 Citations](#-Citations)
+  - [📊 Overview of Popular Datasets](#-Overview-of-Popular-Datasets)
     - [📖 Surveys and Tutorials](#-surveys-and-tutorials)
     - [🧠 General Multimodal RAG](#-general-multimodal-rag)
     - [📄 Multimodal Document RAG](#-multimodal-document-rag)
@@ -55,7 +56,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 }
 ```
 
-## Overview of Popular Datasets in Multimodal RAG Research
+## 📊 Overview of Popular Datasets
 
 ### Image-Text General
 
