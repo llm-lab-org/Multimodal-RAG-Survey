@@ -26,6 +26,10 @@ This repository is designed to collect and categorize papers related to Multimod
     - [📚 RAG-related Surveys](#-RAG-related-Surveys)
     - [👓 Retrieval Strategies Advances](#-retrieval-strategies-advances)
       - [🔍 Efficient-Search and Similarity Retrieval](#-Efficient-Search-and-Similarity-Retrieval)
+      - [🎨 Modality-Centric Retrieval](#-Efficient-Search-and-Similarity-Retrieval)
+        - [🔊 Audio-Text](#-Audio-Text)    
+
+
     - [🔊 Audio-Text](#-Audio-Text)
     - [🩺 Medical](#-Medical)
     - [👗 Fashion](#-Fashion)
