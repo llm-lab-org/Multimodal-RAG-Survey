@@ -217,6 +217,16 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://arxiv.org/abs/2409.10516)
 - [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
 
+
+#### 🎨 Modality-Centric Retrieval
+##### 📋 Text-Centric 
+##### 📸 Vision-Centric
+##### 🎥 Video-Centric
+##### 📰 Document-Retrieval
+
+
+
+
 ### Augmentation Technique
 #### Context-Enrichment 
 
