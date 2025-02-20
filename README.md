@@ -21,7 +21,16 @@ This repository is designed to collect and categorize papers related to Multimod
     - [👗 Fashion](#-Fashion)
     - [🩺 Medical](#-Medical)
     - [💡 QA](#-QA)
-  - [📊 Datasets](#-datasets)
+    - [🌎 Other](#-Other)
+  - [📄 Papers](#Papers)
+    - [📚 RAG-related Surveys](#-RAG-related-Surveys)
+    - [🎞 Video-Text](#-Video-Text)
+    - [🔊 Audio-Text](#-Audio-Text)
+    - [🩺 Medical](#-Medical)
+    - [👗 Fashion](#-Fashion)
+    - [🩺 Medical](#-Medical)
+    - [💡 QA](#-QA)
+    - [🌎 Other](#-Other)
   - [🔧 Tools and Frameworks](#-tools-and-frameworks)
   - [📈 Benchmarks and Metrics](#-benchmarks-and-metrics)
   - [🚀 Open Challenges](#-open-challenges)
@@ -161,7 +170,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 
 ---
 
-### Other
+### 🌎 Other
 
 | **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
 |------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
@@ -172,8 +181,8 @@ If you find our paper, code, data, or models useful, please cite the paper:
 
 ---
 
-## Paper Collection
-### RAG-related Surveys
+## 📄 Papers
+### 📚 RAG-related Surveys
 - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
 - [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431) 
 - [Old IR Methods Meet RAG](https://dl.acm.org/doi/pdf/10.1145/3626772.3657935)  
@@ -199,7 +208,6 @@ If you find our paper, code, data, or models useful, please cite the paper:
 #### Context-Enrichment 
 
 - [EMERGE: Enhancing Multimodal Electronic Health Records Predictive Modeling with Retrieval-Augmented Generation](https://doi.org/10.1145/3627673.3679582)  
-
 - [Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/)  
 - [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](https://openaccess.thecvf.com/content/CVPR2024/html/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPR_2024_paper.html)  
 - [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093)  
