@@ -11,7 +11,8 @@ This repository is designed to collect and categorize papers related to Multimod
   - [🔎 General Pipeline](#-general-pipeline)
   - [🌿 Taxonomy of Recent Advances and Enhancements](#-Taxonomy-of-Recent-Advances-and-Enhancements)
   - [⚙ Taxonomy of Application Domains](#-Taxonomy-of-Application-Domains)
-  - [👓 Abstarct](#-Taxonomy-of-Application-Domains)
+  - [📝 Abstarct](#-Abstarct)
+  - [🔗 Citation](#-Citation)
     - [📖 Surveys and Tutorials](#-surveys-and-tutorials)
     - [🧠 General Multimodal RAG](#-general-multimodal-rag)
     - [📄 Multimodal Document RAG](#-multimodal-document-rag)
@@ -34,13 +35,13 @@ This repository is designed to collect and categorize papers related to Multimod
 ![6634_Ask_in_Any_Modality_A_Com_organized-2-cropped](https://github.com/user-attachments/assets/f46ac78b-f51a-43c4-90bc-938d441093f2)
 
 
-## Abstract
+## 📝 Abstract
 Large Language Models (LLMs) struggle with hallucinations and outdated knowledge due to their reliance on static training data. Retrieval-Augmented Generation (RAG) mitigates these issues by integrating external dynamic information enhancing factual and updated grounding. Recent advances in multimodal learning have led to the development of Multimodal RAG, incorporating multiple modalities such as text, images, audio, and video to enhance the generated outputs. However, cross-modal alignment and reasoning introduce unique challenges to Multimodal RAG, distinguishing it from traditional unimodal RAG.
 
 This survey offers a structured and comprehensive analysis of Multimodal RAG systems, covering datasets, metrics, benchmarks, evaluation, methodologies, and innovations in retrieval, fusion, augmentation, and generation. We precisely review training strategies, robustness enhancements, and loss functions, while also exploring the diverse Multimodal RAG scenarios. 
 Furthermore, we discuss open challenges and future research directions to support advancements in this evolving field. This survey lays the foundation for developing more capable and reliable AI systems that effectively leverage multimodal dynamic external knowledge bases. 
 
-## Citations
+## 🔗 Citations
 If you find our paper, code, data, or models useful, please cite the paper:
 ```
 @misc{abootorabi2025askmodalitycomprehensivesurvey,
