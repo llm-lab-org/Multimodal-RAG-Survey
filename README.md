@@ -1,4 +1,4 @@
-# 🐱‍🏍 Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation
+# Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2502.08826)
 
@@ -7,7 +7,7 @@ This repository is designed to collect and categorize papers related to Multimod
 
 ## 📑 List of Contents
 
-- [🐱‍🏍 Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](#-ask-in-any-modality-a-comprehensive-survey-on-multimodal-retrieval-augmented-generation)
+- [Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](#-ask-in-any-modality-a-comprehensive-survey-on-multimodal-retrieval-augmented-generation)
   - [🔎 General Pipeline](#-general-pipeline)
   - [🌿 Taxonomy of Recent Advances and Enhancements](#-Taxonomy-of-Recent-Advances-and-Enhancements)
   - [⚙ Taxonomy of Application Domains](#-Taxonomy-of-Application-Domains)
