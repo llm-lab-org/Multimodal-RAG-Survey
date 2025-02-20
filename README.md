@@ -8,7 +8,7 @@ This repository is designed to collect and categorize papers related to Multimod
 ## 📑 List of Contents
 
 - [🐱‍🏍 Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](#-ask-in-any-modality-a-comprehensive-survey-on-multimodal-retrieval-augmented-generation)
-  - [📚 Contents](#-contents)
+  - [🔎 General Pipeline of Multimodal RAG](#-general-pipeline-of-multimodal-rAG)
   - [✨ Introduction](#-introduction)
   - [📝 Papers](#-papers)
     - [📖 Surveys and Tutorials](#-surveys-and-tutorials)
@@ -23,7 +23,7 @@ This repository is designed to collect and categorize papers related to Multimod
   - [🙏 Acknowledgments](#-acknowledgments)
 
 
-## General Pipeline of Multimodal RAG
+## 🔎 General Pipeline of Multimodal RAG
 ![output-onlinepngtools (1)](https://github.com/user-attachments/assets/fabab7c0-9ca3-4d0b-b4d5-fb46defc8620)
 
 ## Taxonomy of recent advances and enhancements in multimodal RAG
