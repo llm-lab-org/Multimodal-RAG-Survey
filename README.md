@@ -32,7 +32,12 @@ This repository is designed to collect and categorize papers related to Multimod
         - [🎥 Video-Centric](#-Video-Centric)
         - [📰 Document-Retrieval](#-Document-Retrieval)
       - [🥇🥈 Re-ranking Strategies](#-Re-ranking-Strategies)
-
+        - [📋 Text-Centric](#-Text-Centric)
+        - [📸 Vision-Centric](#-Vision-Centric)
+        - [🎥 Video-Centric](#-Video-Centric)
+    - [🛠 Fusion Mechanisms](#-Fusion-Mechanisms)
+      - [🔍 Efficient-Search and Similarity Retrieval](#-Efficient-Search-and-Similarity-Retrieval)
+      - [🎨 Modality-Centric Retrieval](#-Modality-Centric-Retrieval)
     - [🔊 Audio-Text](#-Audio-Text)
     - [🩺 Medical](#-Medical)
     - [👗 Fashion](#-Fashion)
@@ -231,12 +236,20 @@ If you find our paper, code, data, or models useful, please cite the paper:
 ##### 🎥 Video-Centric
 ##### 📰 Document-Retrieval
 
-
 #### 🥇🥈 Re-ranking Strategies
+##### 🎯 Optimized Example Selection
+##### 🧮 Relevance Score Evaluation
+##### ⏳ Filtering Mechanisms
 
-### Augmentation Technique
-#### Context-Enrichment 
 
+
+### 🛠 Fusion Mechanisms
+#### 🎰 Score Fusion and Alignment
+#### ⚔ Attention-Based Mechanisms
+#### 🧩 Unified Frameworkes
+
+### 🚀 Augmentation Techniques
+#### 💰 Context-Enrichment 
 - [EMERGE: Enhancing Multimodal Electronic Health Records Predictive Modeling with Retrieval-Augmented Generation](https://doi.org/10.1145/3627673.3679582)  
 - [Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/)  
 - [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](https://openaccess.thecvf.com/content/CVPR2024/html/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPR_2024_paper.html)  
@@ -244,8 +257,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [Img2Loc: Revisiting Image Geolocalization Using Multi-Modality Foundation Models and Image-Based Retrieval-Augmented Generation](https://doi.org/10.1145/3627673.3679582)  
 - [Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering](https://arxiv.org/abs/2412.20927) 
 
-#### Adaptive and Iterative Retrieval
-
+#### 🎡 Adaptive and Iterative Retrieval
 - [Enhancing Multi-modal Multi-hop Question Answering via Structured Knowledge and Unified Retrieval-Generation](https://doi.org/10.1145/3581783.3611964)  
 - [Iterative Retrieval Augmentation for Multi-Modal Knowledge Integration and Generation](http://dx.doi.org/10.36227/techrxiv.172840252.24352951/v1)  
 - [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75/)  
@@ -256,9 +268,8 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](https://aclanthology.org/2024.fever-1.29/)
 
 
-### Generation Technique
-#### In-Context Learning 
-
+### 🤖 Generation Technique
+#### 🧠 In-Context Learning 
 - [Retrieval Meets Reasoning: Even High-school Textbook Knowledge Benefits Multimodal Reasoning](https://arxiv.org/abs/2405.20834)  
 - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311)  
 - [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html)  
@@ -266,15 +277,13 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning? (MSIER)](https://aclanthology.org/2024.emnlp-main.305/)  
 - [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150)
 
-#### Reasoning 
-
+#### 👨‍⚖️ Reasoning 
 - [RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](https://aclanthology.org/2024.fever-1.29/)  
 - [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2412.10704)  
 - [Self-adaptive Multimodal Retrieval-Augmented Generation](https://paperswithcode.com/paper/self-adaptive-multimodal-retrieval-augmented)  
 - [LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657740)
 
-#### Instruction Tuning 
-
+#### 🤺 Instruction Tuning 
 - [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2410.14154)  
 - [InstructBLIP: towards general-purpose vision-language models with instruction tuning](https://dl.acm.org/doi/10.5555/3666122.3668264)  
 - [Retrieval-Augmented Dynamic Prompt Tuning for Incomplete Multimodal Learning](https://arxiv.org/abs/2501.01120v1)  
@@ -286,8 +295,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](https://arxiv.org/abs/2409.14083)
 - [Rule: Reliable multimodal rag for factuality in medical vision language models](https://arxiv.org/abs/2407.05131)
 
-#### Source Attribution and Evidence Transparency 
-
+#### 📂 Source Attribution and Evidence Transparency 
 - [MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://arxiv.org/abs/2408.08521)  
 - [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://arxiv.org/abs/2412.14457)  
 - [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75.pdf)
