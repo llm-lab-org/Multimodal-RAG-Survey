@@ -201,21 +201,20 @@ If you find our paper, code, data, or models useful, please cite the paper:
 
 ### Retrieval Strategies Advances
 #### Efficient-Search and Similarity Retrieval
-- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
+- [ADQ: Adaptive Dataset Quantization](https://arxiv.org/abs/2412.16895)
+- [Query-Aware Quantization for Maximum Inner Product Search](https://ojs.aaai.org/index.php/AAAI/article/view/25613)
 - [TPU-KNN: K Nearest Neighbor Search at Peak FLOP/s](https://papers.nips.cc/paper_files/paper/2022/hash/639d992f819c2b40387d4d5170b8ffd7-Abstract-Conference.html)
+- [ScaNN: Accelerating large-scale inference with anisotropic vector quantization](https://dl.acm.org/doi/abs/10.5555/3524938.3525302)
+- [BanditMIPS: Faster Maximum Inner Product Search in High Dimensions](https://openreview.net/forum?id=FKkkdyRdsD)
+- [MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality](https://arxiv.org/abs/2312.06397)
+- [FARGO: Fast Maximum Inner Product Search via Global Multi-Probing](https://dl.acm.org/doi/10.14778/3579075.3579084)
+- [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text](https://arxiv.org/abs/2210.02928)
+- [RA-CM3: Retrieval-Augmented Multimodal Language Modeling](https://proceedings.mlr.press/v202/yasunaga23a.html)
+- [Efficient and Effective Retrieval of Dense-Sparse Hybrid Vectors using Graph-based Approximate Nearest Neighbor Search](https://arxiv.org/abs/2410.20381)
+- [Revisiting Neural Retrieval on Accelerators](https://dl.acm.org/doi/10.1145/3580305.3599897)
+- [DeeperImpact: Optimizing Sparse Learned Index Structures](https://arxiv.org/abs/2405.17093)
+- [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://arxiv.org/abs/2409.10516)
 - [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
-- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
-- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
-- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
-- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
-- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
-- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
-- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
-- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
-
-
-- 
-
 
 ### Augmentation Technique
 #### Context-Enrichment 
