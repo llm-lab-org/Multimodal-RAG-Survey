@@ -50,6 +50,7 @@ This repository is designed to collect and categorize papers related to Multimod
       - [👨‍⚖️ Reasoning](#-Reasoning)
       - [🤺 Instruction Tuning](#-Instruction-Tuning)
       - [📂 Source Attribution and Evidence Transparency](#-Source-Attribution-and-Evidence-Transparency)             
+  - [📧 Contact](#-Contact)
 
 ## 🔎 General Pipeline
 ![output-onlinepngtools (1)](https://github.com/user-attachments/assets/fabab7c0-9ca3-4d0b-b4d5-fb46defc8620)
@@ -305,5 +306,5 @@ If you find our paper, code, data, or models useful, please cite the paper:
 **This README is a work in progress and will be completed soon. Stay tuned for more updates!**
 
 ---
-## Contact
+## 📧 Contact
 If you have questions, please send an email to mahdi.abootorabi2@gmail.com.
