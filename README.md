@@ -12,7 +12,7 @@ This repository is designed to collect and categorize papers related to Multimod
   - [🌿 Taxonomy of Recent Advances and Enhancements](#-Taxonomy-of-Recent-Advances-and-Enhancements)
   - [⚙ Taxonomy of Application Domains](#-Taxonomy-of-Application-Domains)
   - [📝 Abstarct](#-Abstarct)
-  - [🔗 Citation](#-Citation)
+  - [🔗 Citations](#-Citations)
     - [📖 Surveys and Tutorials](#-surveys-and-tutorials)
     - [🧠 General Multimodal RAG](#-general-multimodal-rag)
     - [📄 Multimodal Document RAG](#-multimodal-document-rag)
