@@ -49,9 +49,7 @@ This repository is designed to collect and categorize papers related to Multimod
       - [🧠 In-Context Learning](#-In-Context-Learning)
       - [👨‍⚖️ Reasoning](#-Reasoning)
       - [🤺 Instruction Tuning](#-Instruction-Tuning)
-      - [📂 Source Attribution and Evidence Transparency](#-Source-Attribution-and-Evidence-Transparency)        
-- [📧 Contact](#-Contact)
-     
+      - [📂 Source Attribution and Evidence Transparency](#-Source-Attribution-and-Evidence-Transparency)             
 
 ## 🔎 General Pipeline
 ![output-onlinepngtools (1)](https://github.com/user-attachments/assets/fabab7c0-9ca3-4d0b-b4d5-fb46defc8620)
