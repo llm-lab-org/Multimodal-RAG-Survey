@@ -22,7 +22,7 @@ This repository is designed to collect and categorize papers related to Multimod
     - [🩺 Medical](#-Medical)
     - [💡 QA](#-QA)
     - [🌎 Other](#-Other)
-  - [📄 Papers](#Papers)
+  - [📄 Papers](#-Papers)
     - [📚 RAG-related Surveys](#-RAG-related-Surveys)
     - [🎞 Video-Text](#-Video-Text)
     - [🔊 Audio-Text](#-Audio-Text)
