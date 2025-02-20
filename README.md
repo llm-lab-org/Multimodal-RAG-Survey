@@ -20,7 +20,7 @@ This repository is designed to collect and categorize papers related to Multimod
     - [🩺 Medical](#-Medical)
     - [👗 Fashion](#-Fashion)
     - [🩺 Medical](#-Medical)
-    - [💡 Knowledge & QA](#-Knowledge-QA)
+    - [💡 QA](#-QA)
   - [📊 Datasets](#-datasets)
   - [🔧 Tools and Frameworks](#-tools-and-frameworks)
   - [📈 Benchmarks and Metrics](#-benchmarks-and-metrics)
@@ -142,7 +142,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 
 ---
 
-### 💡 Knowledge & QA
+### 💡 QA
 
 | **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
 |------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
