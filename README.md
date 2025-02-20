@@ -31,7 +31,7 @@ This repository is designed to collect and categorize papers related to Multimod
         - [📸 Vision-Centric](#-Vision-Centric)
         - [🎥 Video-Centric](#-Video-Centric)
         - [📰 Document-Retrieval](#-Document-Retrieval)
-
+      - [🥇🥈 Re-ranking Strategies](#-Re-ranking-Strategies)
 
     - [🔊 Audio-Text](#-Audio-Text)
     - [🩺 Medical](#-Medical)
@@ -232,7 +232,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 ##### 📰 Document-Retrieval
 
 
-
+#### 🥇🥈 Re-ranking Strategies
 
 ### Augmentation Technique
 #### Context-Enrichment 
