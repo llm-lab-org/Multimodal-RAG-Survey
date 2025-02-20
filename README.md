@@ -8,9 +8,9 @@ This repository is designed to collect and categorize papers related to Multimod
 ## 📑 List of Contents
 
 - [🐱‍🏍 Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](#-ask-in-any-modality-a-comprehensive-survey-on-multimodal-retrieval-augmented-generation)
-  - [🔎 General Pipeline of Multimodal RAG](#-general-pipeline-of-multimodal-rAG)
-  - [✨ Introduction](#-introduction)
-  - [📝 Papers](#-papers)
+  - [🔎 General Pipeline](#-general-pipeline)
+  - [🕶 Taxonomy of Recent Advances and Enhancements](#-Taxonomy-of-Recent-Advances-and-Enhancements)
+  - [👓 Taxonomy of Application Domains](#-papers)
     - [📖 Surveys and Tutorials](#-surveys-and-tutorials)
     - [🧠 General Multimodal RAG](#-general-multimodal-rag)
     - [📄 Multimodal Document RAG](#-multimodal-document-rag)
@@ -23,13 +23,13 @@ This repository is designed to collect and categorize papers related to Multimod
   - [🙏 Acknowledgments](#-acknowledgments)
 
 
-## 🔎 General Pipeline of Multimodal RAG
+## 🔎 General Pipeline
 ![output-onlinepngtools (1)](https://github.com/user-attachments/assets/fabab7c0-9ca3-4d0b-b4d5-fb46defc8620)
 
-## Taxonomy of recent advances and enhancements in multimodal RAG
+## 🕶 Taxonomy of Recent Advances and Enhancements
 ![6634_Ask_in_Any_Modality_A_Com_organized-1-cropped](https://github.com/user-attachments/assets/0b5cd8e6-1aef-402b-a0a3-e3bf5cf555ae)
 
-## Taxonomy of application domains for multimodal RAG.
+## 👓 Taxonomy of Application Domains
 ![6634_Ask_in_Any_Modality_A_Com_organized-2-cropped](https://github.com/user-attachments/assets/f46ac78b-f51a-43c4-90bc-938d441093f2)
 
 
