@@ -257,7 +257,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation](https://arxiv.org/abs/2402.03216)
 - [Re-Imagen: Retrieval-Augmented Text-to-Image Generator](https://arxiv.org/abs/2209.14491)
 - [GTE: Towards General Text Embeddings with Multi-stage Contrastive Learning](https://arxiv.org/abs/2308.03281)
-- [Contriever: Unsupervised Dense Information Retrieval with Contrastive Learning](https://openreview.net/forum?id=JnWJbrnaUE)
+- [Contriever: Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/abs/2112.09118)
 
 
 ##### 📸 Vision-Centric
