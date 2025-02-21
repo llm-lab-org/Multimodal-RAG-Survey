@@ -48,7 +48,8 @@ This repository is designed to collect and categorize papers related to Multimod
       - [🧠 In-Context Learning](#-In-Context-Learning)
       - [👨‍⚖️ Reasoning](#-Reasoning)
       - [🤺 Instruction Tuning](#-Instruction-Tuning)
-      - [📂 Source Attribution and Evidence Transparency](#-Source-Attribution-and-Evidence-Transparency)             
+      - [📂 Source Attribution and Evidence Transparency](#-Source-Attribution-and-Evidence-Transparency)
+    - [🛡️ Robustness and Noise Management](#-Robustness-and-Noise-Management)             
   - [🔗 Citations](#-Citations)
   - [📧 Contact](#-Contact)
 
@@ -366,6 +367,15 @@ Furthermore, we discuss open challenges and future research directions to suppor
 - [MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://arxiv.org/abs/2408.08521)  
 - [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://arxiv.org/abs/2412.14457)  
 - [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75.pdf)
+
+### 🛡️ Robustness and Noise Management
+- [RA-CM3: Retrieval-Augmented Multimodal Language Modeling](https://arxiv.org/abs/2211.12561) (Jan 2023)
+- [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training](https://arxiv.org/abs/2407.21439) (Jul 2024)  
+- [MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning](https://aclanthology.org/2024.findings-acl.69/) (August 2024)
+- [RAGTrans: Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction](https://doi.org/10.1145/3637528.3672041) (August 2024)
+- [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2410.14154) (Oct 2024)  
+- [Quantifying the Gaps Between Translation and Native Perception in Training for Multimodal, Multilingual Retrieval](https://aclanthology.org/2024.emnlp-main.335/) (Nov 2024)  
+- [AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles](https://arxiv.org/abs/2412.16701) (Dec 2024)  
 
 **This README is a work in progress and will be completed soon. Stay tuned for more updates!**
 
