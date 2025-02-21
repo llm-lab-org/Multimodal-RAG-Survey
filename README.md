@@ -247,7 +247,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 
 #### 🎨 Modality-Centric Retrieval
 ##### 📋 Text-Centric
-M^2RAG
+M<sup>2</sup>
 ##### 📸 Vision-Centric
 ##### 🎥 Video-Centric
 ##### 📰 Document-Retrieval
