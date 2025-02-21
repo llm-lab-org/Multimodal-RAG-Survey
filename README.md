@@ -238,6 +238,17 @@ If you find our paper, code, data, or models useful, please cite the paper:
 ##### 📸 Vision-Centric
 ##### 🎥 Video-Centric
 ##### 📰 Document-Retrieval
+- [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/abs/2407.01449)
+- [ColQwen2: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191)
+- [M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding](https://arxiv.org/abs/2411.04952)
+- [ViTLP: Visually Guided Generative Text-Layout Pre-training for Document Intelligence](https://aclanthology.org/2024.naacl-long.264/)
+- [DocLLM: A Layout-Aware Generative Language Model for Multimodal Document Understanding](https://aclanthology.org/2024.acl-long.463/)
+- [CREAM: Coarse-to-Fine Retrieval and Multi-modal Efficient Tuning for Document VQA](https://dl.acm.org/doi/10.1145/3664647.3680750)
+- [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](https://aclanthology.org/2024.findings-emnlp.175/)
+- [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](https://arxiv.org/abs/2409.03420)
+- [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation]([https://arxiv.org/abs/2407.01449](https://arxiv.org/abs/2412.10704)
+- [DSE: Unifying Multimodal Retrieval via Document Screenshot Embedding](https://arxiv.org/abs/2406.11251)
+
 
 #### 🥇🥈 Re-ranking Strategies
 ##### 🎯 Optimized Example Selection
