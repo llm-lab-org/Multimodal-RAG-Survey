@@ -259,8 +259,19 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [GTE: Towards General Text Embeddings with Multi-stage Contrastive Learning](https://arxiv.org/abs/2308.03281)
 - [Contriever: Unsupervised Dense Information Retrieval with Contrastive Learning](https://arxiv.org/abs/2112.09118)
 
-
 ##### 📸 Vision-Centric
+- [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://arxiv.org/abs/2412.14457)
+- [Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering](https://arxiv.org/abs/2412.20927)
+- [EchoSight: Advancing Visual-Language Models with Wiki Knowledge](https://aclanthology.org/2024.findings-emnlp.83/)
+- [XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags](https://aclanthology.org/2024.findings-acl.771/)
+- [RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training](https://dl.acm.org/doi/10.1145/3581783.3611830)
+- [eCLIP: Improving Medical Multi-modal Contrastive Learning with Expert Annotations](https://link.springer.com/chapter/10.1007/978-3-031-72661-3_27)
+- [Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2302.03084)
+- [Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval](https://arxiv.org/abs/2404.15516)
+- [UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation](https://aclanthology.org/2024.emnlp-main.89/)
+- [VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering](https://arxiv.org/abs/2312.12273)
+
+
 ##### 🎥 Video-Centric
 ##### 📰 Document-Retrieval
 - [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/abs/2407.01449)
@@ -273,6 +284,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](https://arxiv.org/abs/2409.03420)
 - [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2412.10704)
 - [DSE: Unifying Multimodal Retrieval via Document Screenshot Embedding](https://arxiv.org/abs/2406.11251)
+- [Robust Multi Model RAG Pipeline For Documents Containing Text, Table & Images](https://www.semanticscholar.org/paper/Robust-Multi-Model-RAG-Pipeline-For-Documents-Text%2C-Joshi-Gupta/282d9048c524eb3d87f73a3fe5ef49bc7297e8b4)
 - [LoCAL: LoRA-Contextualizing Adaptation of Large Multimodal Models for Long Document Understanding](https://arxiv.org/abs/2411.01106)
 
 
