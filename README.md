@@ -246,7 +246,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [CREAM: Coarse-to-Fine Retrieval and Multi-modal Efficient Tuning for Document VQA](https://dl.acm.org/doi/10.1145/3664647.3680750)
 - [mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding](https://aclanthology.org/2024.findings-emnlp.175/)
 - [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](https://arxiv.org/abs/2409.03420)
-- [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation]([https://arxiv.org/abs/2407.01449](https://arxiv.org/abs/2412.10704)
+- [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2412.10704)
 - [DSE: Unifying Multimodal Retrieval via Document Screenshot Embedding](https://arxiv.org/abs/2406.11251)
 
 
