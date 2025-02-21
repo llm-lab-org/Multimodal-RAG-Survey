@@ -12,7 +12,6 @@ This repository is designed to collect and categorize papers related to Multimod
   - [🌿 Taxonomy of Recent Advances and Enhancements](#-Taxonomy-of-Recent-Advances-and-Enhancements)
   - [⚙ Taxonomy of Application Domains](#-Taxonomy-of-Application-Domains)
   - [📝 Abstract](#-Abstract)
-  - [🔗 Citations](#-Citations)
   - [📊 Overview of Popular Datasets](#-Overview-of-Popular-Datasets)
     - [🖼 Image-Text](#-Image-Text)
     - [🎞 Video-Text](#-Video-Text)
@@ -50,8 +49,10 @@ This repository is designed to collect and categorize papers related to Multimod
       - [👨‍⚖️ Reasoning](#-Reasoning)
       - [🤺 Instruction Tuning](#-Instruction-Tuning)
       - [📂 Source Attribution and Evidence Transparency](#-Source-Attribution-and-Evidence-Transparency)             
+  - [🔗 Citations](#-Citations)
   - [📧 Contact](#-Contact)
 
+---
 ## 🔎 General Pipeline
 ![output-onlinepngtools (1)](https://github.com/user-attachments/assets/fabab7c0-9ca3-4d0b-b4d5-fb46defc8620)
 
@@ -67,20 +68,6 @@ Large Language Models (LLMs) struggle with hallucinations and outdated knowledge
 
 This survey offers a structured and comprehensive analysis of Multimodal RAG systems, covering datasets, metrics, benchmarks, evaluation, methodologies, and innovations in retrieval, fusion, augmentation, and generation. We precisely review training strategies, robustness enhancements, and loss functions, while also exploring the diverse Multimodal RAG scenarios. 
 Furthermore, we discuss open challenges and future research directions to support advancements in this evolving field. This survey lays the foundation for developing more capable and reliable AI systems that effectively leverage multimodal dynamic external knowledge bases. 
-
-## 🔗 Citations
-If you find our paper, code, data, or models useful, please cite the paper:
-```
-@misc{abootorabi2025askmodalitycomprehensivesurvey,
-      title={Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation}, 
-      author={Mohammad Mahdi Abootorabi and Amirhosein Zobeiri and Mahdi Dehghani and Mohammadali Mohammadkhani and Bardia Mohammadi and Omid Ghahroodi and Mahdieh Soleymani Baghshah and Ehsaneddin Asgari},
-      year={2025},
-      eprint={2502.08826},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.08826}, 
-}
-```
 
 ## 📊 Overview of Popular Datasets
 
@@ -383,5 +370,18 @@ If you find our paper, code, data, or models useful, please cite the paper:
 **This README is a work in progress and will be completed soon. Stay tuned for more updates!**
 
 ---
+## 🔗 Citations
+If you find our paper, code, data, or models useful, please cite the paper:
+```
+@misc{abootorabi2025askmodalitycomprehensivesurvey,
+      title={Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation}, 
+      author={Mohammad Mahdi Abootorabi and Amirhosein Zobeiri and Mahdi Dehghani and Mohammadali Mohammadkhani and Bardia Mohammadi and Omid Ghahroodi and Mahdieh Soleymani Baghshah and Ehsaneddin Asgari},
+      year={2025},
+      eprint={2502.08826},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.08826}, 
+}
+```
 ## 📧 Contact
 If you have questions, please send an email to mahdi.abootorabi2@gmail.com.
