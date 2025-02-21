@@ -232,6 +232,18 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
 
 ##### 💫 Multi-Modal Encoders
+- [Mi-RAG: Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/)
+- [Ovis: Structural Embedding Alignment for Multimodal Large Language Model](https://arxiv.org/abs/2405.20797)
+- [GME: Improving Universal Multimodal Retrieval by Multimodal LLMs](https://arxiv.org/abs/2412.16855)
+- [MARVEL: Unlocking the Multi-Modal Capability of Dense Retrieval via Visual Module Plugin](https://aclanthology.org/2024.acl-long.783/)
+- [VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval](https://aclanthology.org/2024.acl-long.175/)
+- [InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://arxiv.org/abs/2212.03191)
+- [UniIR: Training and Benchmarking Universal Multimodal Information Retrievers](https://arxiv.org/abs/2311.17136)
+- [Universal Vision-Language Dense Retrieval: Learning A Unified Representation Space for Multi-Modal Retrieval](https://arxiv.org/abs/2209.00179)
+- [FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/abs/2112.04482)
+- [ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://proceedings.mlr.press/v139/jia21b.html)
+- [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086)
+- [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 
 #### 🎨 Modality-Centric Retrieval
 ##### 📋 Text-Centric 
