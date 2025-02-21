@@ -7,7 +7,7 @@ This repository is designed to collect and categorize papers related to Multimod
 
 ## 📑 List of Contents
 
-- [Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](#-ask-in-any-modality-a-comprehensive-survey-on-multimodal-retrieval-augmented-generation)
+
   - [🔎 General Pipeline](#-general-pipeline)
   - [🌿 Taxonomy of Recent Advances and Enhancements](#-Taxonomy-of-Recent-Advances-and-Enhancements)
   - [⚙ Taxonomy of Application Domains](#-Taxonomy-of-Application-Domains)
