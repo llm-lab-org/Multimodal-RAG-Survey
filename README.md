@@ -11,7 +11,7 @@ This repository is designed to collect and categorize papers related to Multimod
   - [🔎 General Pipeline](#-general-pipeline)
   - [🌿 Taxonomy of Recent Advances and Enhancements](#-Taxonomy-of-Recent-Advances-and-Enhancements)
   - [⚙ Taxonomy of Application Domains](#-Taxonomy-of-Application-Domains)
-  - [📝 Abstarct](#-Abstarct)
+  - [📝 Abstract](#-Abstract)
   - [🔗 Citations](#-Citations)
   - [📊 Overview of Popular Datasets](#-Overview-of-Popular-Datasets)
     - [🖼 Image-Text](#-Image-Text)
