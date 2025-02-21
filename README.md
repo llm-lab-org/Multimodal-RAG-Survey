@@ -49,7 +49,8 @@ This repository is designed to collect and categorize papers related to Multimod
       - [👨‍⚖️ Reasoning](#-Reasoning)
       - [🤺 Instruction Tuning](#-Instruction-Tuning)
       - [📂 Source Attribution and Evidence Transparency](#-Source-Attribution-and-Evidence-Transparency)
-    - [🛡️ Robustness and Noise Management](#-Robustness-and-Noise-Management)             
+    - [🔧 Training Strategies and Loss Function](#-Training-Strategies-and-Loss-Function)     
+    - [🛡️ Robustness and Noise Management](#-Robustness-and-Noise-Management)            
   - [🔗 Citations](#-Citations)
   - [📧 Contact](#-Contact)
 
@@ -368,14 +369,22 @@ Furthermore, we discuss open challenges and future research directions to suppor
 - [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://arxiv.org/abs/2412.14457)  
 - [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75.pdf)
 
+### 🔧 Training Strategies and Loss Function
+- [REVEAL: Retrieval-Augmented Visual-Language Pre-Training With Multi-Source Multimodal Knowledge Memory](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_REVEAL_Retrieval-Augmented_Visual-Language_Pre-Training_With_Multi-Source_Multimodal_Knowledge_Memory_CVPR_2023_paper.html) (April 2023)
+- [Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control](https://arxiv.org/abs/2402.17535) (February 2024)
+- [HACL: Hallucination Augmented Contrastive Learning for Multimodal Large Language Model](https://openaccess.thecvf.com/content/CVPR2024/html/Jiang_Hallucination_Augmented_Contrastive_Learning_for_Multimodal_Large_Language_Model_CVPR_2024_paper.html) (February 2024)  
+- [UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models](https://ieeexplore.ieee.org/document/10535103) (May 2024)  
+- [Improving Medical Multi-modal Contrastive Learning with Expert Annotations](https://doi.org/10.1007/978-3-031-72661-3_27) (November 2024)
+- [EchoSight: Advancing Visual-Language Models with Wiki Knowledge](https://aclanthology.org/2024.findings-emnlp.83/) (November 2024)
+
 ### 🛡️ Robustness and Noise Management
-- [RA-CM3: Retrieval-Augmented Multimodal Language Modeling](https://arxiv.org/abs/2211.12561) (Jan 2023)
-- [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training](https://arxiv.org/abs/2407.21439) (Jul 2024)  
+- [RA-CM3: Retrieval-Augmented Multimodal Language Modeling](https://arxiv.org/abs/2211.12561) (January 2023)
+- [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training](https://arxiv.org/abs/2407.21439) (July 2024)  
 - [MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning](https://aclanthology.org/2024.findings-acl.69/) (August 2024)
 - [RAGTrans: Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction](https://doi.org/10.1145/3637528.3672041) (August 2024)
-- [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2410.14154) (Oct 2024)  
-- [Quantifying the Gaps Between Translation and Native Perception in Training for Multimodal, Multilingual Retrieval](https://aclanthology.org/2024.emnlp-main.335/) (Nov 2024)  
-- [AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles](https://arxiv.org/abs/2412.16701) (Dec 2024)  
+- [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2410.14154) (October 2024)  
+- [Quantifying the Gaps Between Translation and Native Perception in Training for Multimodal, Multilingual Retrieval](https://aclanthology.org/2024.emnlp-main.335/) (November 2024)  
+- [AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles](https://arxiv.org/abs/2412.16701) (December 2024)  
 
 **This README is a work in progress and will be completed soon. Stay tuned for more updates!**
 
