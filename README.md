@@ -247,7 +247,19 @@ If you find our paper, code, data, or models useful, please cite the paper:
 
 #### 🎨 Modality-Centric Retrieval
 ##### 📋 Text-Centric
-M<sup>2</sup>
+- [M<sup>2</sup>RAG: Multi-modal Retrieval Augmented Multi-modal Generation: Datasets, Evaluation Metrics and Strong Baselines](https://arxiv.org/abs/2411.16365)
+- [CRAG: Corrective Retrieval Augmented Generation](https://openreview.net/forum?id=JnWJbrnaUE)
+- [RAFT: Adapting Language Model to Domain Specific RAG](https://openreview.net/forum?id=rzQGHXNReU#discussion)
+- [PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers](https://aclanthology.org/2024.acl-long.289/)
+- [CRAG: Corrective Retrieval Augmented Generation](https://openreview.net/forum?id=JnWJbrnaUE)
+- [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75/)
+- [XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags](https://aclanthology.org/2024.findings-acl.771/)
+- [BGE M3-Embedding: Multi-Lingual, Multi-Functionality, Multi-Granularity Text Embeddings Through Self-Knowledge Distillation](https://arxiv.org/abs/2402.03216)
+- [Re-Imagen: Retrieval-Augmented Text-to-Image Generator](https://arxiv.org/abs/2209.14491)
+- [GTE: Towards General Text Embeddings with Multi-stage Contrastive Learning](https://arxiv.org/abs/2308.03281)
+- [Contriever: Unsupervised Dense Information Retrieval with Contrastive Learning](https://openreview.net/forum?id=JnWJbrnaUE)
+
+
 ##### 📸 Vision-Centric
 ##### 🎥 Video-Centric
 ##### 📰 Document-Retrieval
