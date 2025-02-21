@@ -271,8 +271,19 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation](https://aclanthology.org/2024.emnlp-main.89/)
 - [VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering](https://arxiv.org/abs/2312.12273)
 
-
 ##### 🎥 Video-Centric
+- [VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos](https://arxiv.org/abs/2502.01549)
+- [VideoRAG: Retrieval-Augmented Generation over Video Corpus](https://arxiv.org/abs/2501.05874)
+- [iRAG: Advancing RAG for Videos with an Incremental Approach](https://dl.acm.org/doi/10.1145/3627673.3680088)
+- [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093)
+- [Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval](https://arxiv.org/abs/2403.17998)
+- [MV-Adapter: Multimodal Video Transfer Learning for Video Text Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Jin_MV-Adapter_Multimodal_Video_Transfer_Learning_for_Video_Text_Retrieval_CVPR_2024_paper.pdf)
+- [OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer](https://aclanthology.org/2024.emnlp-main.559/)
+- [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610)
+- [CTCH: Contrastive Transformer Cross-Modal Hashing for Video-Text Retrieval](https://www.ijcai.org/proceedings/2024/136)
+- [Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval](https://dl.acm.org/doi/10.1145/3664647.3680731)
+- [DrVideo: Document Retrieval Based Long Video Understanding](https://arxiv.org/abs/2406.12846)
+
 ##### 📰 Document-Retrieval
 - [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/abs/2407.01449)
 - [ColQwen2: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191)
