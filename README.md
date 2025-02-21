@@ -299,10 +299,26 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [LoCAL: LoRA-Contextualizing Adaptation of Large Multimodal Models for Long Document Understanding](https://arxiv.org/abs/2411.01106)
 
 
-
 #### 🥇🥈 Re-ranking Strategies
 ##### 🎯 Optimized Example Selection
+- [MSIER: How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?](https://aclanthology.org/2024.emnlp-main.305/)
+- [Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach](https://arxiv.org/abs/2407.00978)
+- [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://aclanthology.org/2024.emnlp-main.62/)
+- [RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training](https://dl.acm.org/doi/10.1145/3581783.3611830)
+- [M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657833)
+  
 ##### 🧮 Relevance Score Evaluation
+- [RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance](https://arxiv.org/abs/2501.03995)
+- [Re-ranking the Context for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2501.04695)
+- [UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models](https://ieeexplore.ieee.org/document/10535103)
+- [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://arxiv.org/abs/2411.15041)
+- [LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657740)
+- [RAGTrans: Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction](https://dl.acm.org/doi/10.1145/3637528.3672041)
+- [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75/)
+- [EgoInstructor: Retrieval-Augmented Egocentric Video Captioning](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Retrieval-Augmented_Egocentric_Video_Captioning_CVPR_2024_paper.pdf)
+
+
+
 ##### ⏳ Filtering Mechanisms
 
 
