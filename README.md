@@ -32,7 +32,7 @@ This repository is designed to collect and categorize papers related to Multimod
         - [📋 Text-Centric](#-Text-Centric)
         - [📸 Vision-Centric](#-Vision-Centric)
         - [🎥 Video-Centric](#-Video-Centric)
-        - [📰 Document-Retrieval](#-Document-Retrieval)
+        - [📰 Document Retrieval and Layout Understanding](#-Document-Retrieval-and-Layout-Understanding)
       - [🥇🥈 Re-ranking Strategies](#-Re-ranking-Strategies)
         - [🎯 Optimized Example Selection](#-Optimized-Example-Selection)
         - [🧮 Relevance Score Evaluation](#-Relevance-Score-Evaluation)
@@ -284,7 +284,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval](https://dl.acm.org/doi/10.1145/3664647.3680731)
 - [DrVideo: Document Retrieval Based Long Video Understanding](https://arxiv.org/abs/2406.12846)
 
-##### 📰 Document-Retrieval
+##### 📰 Document Retrieval and Layout Understanding
 - [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/abs/2407.01449)
 - [ColQwen2: Enhancing Vision-Language Model's Perception of the World at Any Resolution](https://arxiv.org/abs/2409.12191)
 - [M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding](https://arxiv.org/abs/2411.04952)
