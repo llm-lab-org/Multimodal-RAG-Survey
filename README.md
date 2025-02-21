@@ -246,7 +246,8 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 
 #### 🎨 Modality-Centric Retrieval
-##### 📋 Text-Centric 
+##### 📋 Text-Centric
+M^2RAG
 ##### 📸 Vision-Centric
 ##### 🎥 Video-Centric
 ##### 📰 Document-Retrieval
