@@ -239,7 +239,7 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval](https://aclanthology.org/2024.acl-long.175/)
 - [InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://arxiv.org/abs/2212.03191)
 - [UniIR: Training and Benchmarking Universal Multimodal Information Retrievers](https://arxiv.org/abs/2311.17136)
-- [Universal Vision-Language Dense Retrieval: Learning A Unified Representation Space for Multi-Modal Retrieval](https://arxiv.org/abs/2209.00179)
+- [UniVL-DR: Universal Vision-Language Dense Retrieval: Learning A Unified Representation Space for Multi-Modal Retrieval](https://arxiv.org/abs/2209.00179)
 - [FLAVA: A Foundational Language And Vision Alignment Model](https://arxiv.org/abs/2112.04482)
 - [ALIGN: Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision](https://proceedings.mlr.press/v139/jia21b.html)
 - [BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation](https://arxiv.org/abs/2201.12086)
