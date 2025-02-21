@@ -248,6 +248,8 @@ If you find our paper, code, data, or models useful, please cite the paper:
 - [mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding](https://arxiv.org/abs/2409.03420)
 - [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2412.10704)
 - [DSE: Unifying Multimodal Retrieval via Document Screenshot Embedding](https://arxiv.org/abs/2406.11251)
+- [LoCAL: LoRA-Contextualizing Adaptation of Large Multimodal Models for Long Document Understanding](https://arxiv.org/abs/2411.01106)
+
 
 
 #### 🥇🥈 Re-ranking Strategies
