@@ -314,6 +314,13 @@ Furthermore, we discuss open challenges and future research directions to suppor
 
 ### 🛠 Fusion Mechanisms
 #### 🎰 Score Fusion and Alignment
+- [UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models](https://ieeexplore.ieee.org/document/10535103)
+- [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311)
+- [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](https://arxiv.org/abs/2410.21943)
+- [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](https://arxiv.org/abs/2404.15406)
+- [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951)
+- [MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval](https://arxiv.org/abs/2412.14475)
+- [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://aclanthology.org/2024.emnlp-demo.33/)
 #### ⚔ Attention-Based Mechanisms
 #### 🧩 Unified Frameworkes
 
