@@ -50,7 +50,8 @@ This repository is designed to collect and categorize papers related to Multimod
       - [🤺 Instruction Tuning](#-Instruction-Tuning)
       - [📂 Source Attribution and Evidence Transparency](#-Source-Attribution-and-Evidence-Transparency)
     - [🔧 Training Strategies and Loss Function](#-Training-Strategies-and-Loss-Function)     
-    - [🛡️ Robustness and Noise Management](#-Robustness-and-Noise-Management)            
+    - [🛡️ Robustness and Noise Management](#-Robustness-and-Noise-Management)
+    - [📏 Evaluation Metrics](#-Evaluation-Metrics)           
   - [🔗 Citations](#-Citations)
   - [📧 Contact](#-Contact)
 
@@ -182,8 +183,8 @@ Furthermore, we discuss open challenges and future research directions to suppor
 | Stanford Cars    | Images of different car models (five examples per model); used for fine-grained categorization tasks.           | Image            | [Stanford Cars](https://www.kaggle.com/datasets/jessicali9530/stanford-cars-dataset)                |
 | GeoDE            | 61,940 images from 40 classes across six world regions; emphasizes geographic diversity in object recognition.   | Image            | [GeoDE](https://github.com/AliRamazani/GeoDE)                                                       |
 
----
 
+---
 ## 📄 Papers
 ### 📚 RAG-related Surveys
 - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
@@ -331,6 +332,7 @@ Furthermore, we discuss open challenges and future research directions to suppor
 - [Re-Imagen: Retrieval-Augmented Text-to-Image Generator](https://arxiv.org/abs/2209.14491)
 - [VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents](https://arxiv.org/abs/2410.10594)
 - [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828)
+
 #### ⚔ Attention-Based Mechanisms
 - [EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling](https://arxiv.org/abs/2406.00036)
 - [MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning](https://arxiv.org/abs/2402.13625)
@@ -342,6 +344,7 @@ Furthermore, we discuss open challenges and future research directions to suppor
 - [Retrieval-augmented egocentric video captioning](https://arxiv.org/abs/2401.00789)
 - [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text](https://arxiv.org/abs/2210.02928)
 - [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610)
+
 #### 🧩 Unified Frameworkes
 - [Hybrid RAG-Empowered Multi-Modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-Based Contract Approach](https://arxiv.org/abs/2407.00978)
 - [Iterative Retrieval Augmentation for Multi-Modal Knowledge Integration and Generation](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172840252.24352951)
@@ -414,12 +417,153 @@ Furthermore, we discuss open challenges and future research directions to suppor
 
 ### 🛡️ Robustness and Noise Management
 - [RA-CM3: Retrieval-Augmented Multimodal Language Modeling](https://arxiv.org/abs/2211.12561) (January 2023)
-- [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training](https://arxiv.org/abs/2407.21439) (July 2024)  
+- [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training (RagVL)](https://arxiv.org/abs/2407.21439) (July 2024)  
 - [MORE: Multi-mOdal REtrieval Augmented Generative Commonsense Reasoning](https://aclanthology.org/2024.findings-acl.69/) (August 2024)
 - [RAGTrans: Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction](https://doi.org/10.1145/3637528.3672041) (August 2024)
 - [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2410.14154) (October 2024)  
 - [Quantifying the Gaps Between Translation and Native Perception in Training for Multimodal, Multilingual Retrieval](https://aclanthology.org/2024.emnlp-main.335/) (November 2024)  
 - [AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles](https://arxiv.org/abs/2412.16701) (December 2024)  
+
+### 📏 Evaluation Metrics
+#### 📊 Retrieval Performance
+- **Recall@K, Precision@K, F1 Score, and MRR**:  
+  - [VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering](https://arxiv.org/abs/2312.12273)  
+  - [UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation](https://aclanthology.org/2024.emnlp-main.89/)  
+  - [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training (RagVL)](https://arxiv.org/abs/2407.21439)   
+  - [Large Language Models Know What is Key Visual Entity: An LLM-assisted Multimodal Retrieval for VQA](https://aclanthology.org/2024.emnlp-main.613/)
+  - [Self-adaptive Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2410.11321)  
+  - [MV-Adapter: Multimodal Video Transfer Learning for Video Text Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Jin_MV-Adapter_Multimodal_Video_Transfer_Learning_for_Video_Text_Retrieval_CVPR_2024_paper.pdf)
+  - [Retrieval-augmented egocentric video captioning](https://arxiv.org/abs/2401.00789)
+  - [Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval](https://arxiv.org/abs/2404.15516) 
+  - [Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval](https://arxiv.org/abs/2403.17998)  
+  - [M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval](https://doi.org/10.1145/3626772.3657833)  
+  - [Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control](https://arxiv.org/abs/2402.17535)  
+  - [Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657727)
+  - [Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/)
+  - [Rule: Reliable multimodal rag for factuality in medical vision language models](https://arxiv.org/abs/2407.05131)
+  - [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610)
+  - [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text](https://arxiv.org/abs/2210.02928)
+  - [REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models](https://arxiv.org/abs/2402.07016)
+  - [EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling](https://arxiv.org/abs/2406.00036)
+  - [UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models](https://ieeexplore.ieee.org/document/10535103)
+  - [RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](https://aclanthology.org/2024.fever-1.29/)
+  - [Iterative Retrieval Augmentation for Multi-Modal Knowledge Integration and Generation](http://dx.doi.org/10.36227/techrxiv.172840252.24352951/v1)
+  - [OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation](https://arxiv.org/abs/2412.02592)
+
+- **min(+P, Se)**:
+It represents the minimum value between precision (+P) and sensitivity (Se), providing a balanced measure of model performance.
+  - REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models](https://arxiv.org/abs/2402.07016)
+  - [EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling](https://arxiv.org/abs/2406.00036)
+
+#### 📝 Fluency and Readability
+- **Fluency (FL)**:  
+  - [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text](https://arxiv.org/abs/2210.02928)
+  - [Multi-modal Retrieval Augmented Multi-modal Generation: A Benchmark, Evaluate Metrics and Strong Baselines](https://arxiv.org/abs/2411.16365)  
+  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311) 
+
+#### ✅ Relevance and Accuracy
+- **Accuracy**:  
+  - [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text](https://arxiv.org/abs/2210.02928)  
+  - [How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?](https://aclanthology.org/2024.emnlp-main.305/)   
+  - [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131) 
+  - [Advanced Embedding Techniques in Multimodal Retrieval Augmented Generation: A Comprehensive Study on Cross Modal AI Applications](https://drpress.org/ojs/index.php/jceim/article/view/24094)  
+  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311)
+  - [MRAG-BENCH: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models](https://arxiv.org/abs/2410.08182)  
+  - [Enhancing Textbook Question Answering Task with Large Language Models and Retrieval Augmented Generation](https://arxiv.org/abs/2402.05128)  
+  - [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-Augmented Generation via Knowledge-Enhanced Reranking and Noise-Injected Training (RagVL)](https://arxiv.org/abs/2407.21439)     
+  - [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150)  
+  - [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://api.semanticscholar.org/CorpusID:274192536)
+  - [Iterative Retrieval Augmentation for Multi-Modal Knowledge Integration and Generation](http://dx.doi.org/10.36227/techrxiv.172840252.24352951/v1)   
+  - [Retrieval Meets Reasoning: Even High-School Textbook Knowledge Benefits Multimodal Reasoning](https://arxiv.org/abs/2405.20834) 
+
+#### 🖼️ Image-related Metrics
+- **Fréchet Inception Distance (FID), CLIP Score, Kernel Inception Distance (KID), and Inception Score (IS)**:  
+  - [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html)
+  - [UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation](https://aclanthology.org/2024.emnlp-main.89/)
+  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311)
+  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951)
+
+- **Consensus-Based Image Description Evaluation (CIDEr)**:
+  - [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html)  
+  - [UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation](https://aclanthology.org/2024.emnlp-main.89/)
+  - [MSIER: How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?](https://aclanthology.org/2024.emnlp-main.305/)
+  - [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828)
+  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/abs/2405.10311)  
+  - [REVEAL: Retrieval-Augmented Visual-Language Pre-Training With Multi-Source Multimodal Knowledge Memory](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_REVEAL_Retrieval-Augmented_Visual-Language_Pre-Training_With_Multi-Source_Multimodal_Knowledge_Memory_CVPR_2023_paper.html)
+  - [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150)
+  - [Retrieval-augmented egocentric video captioning](https://arxiv.org/abs/2401.00789)
+  - [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610)
+  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951)
+
+- **SPICE**:
+  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/abs/2405.10311)   
+
+- **SPIDEr**:
+  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951)
+
+ 
+#### 🎵 Audio-related Metrics
+- **Fréchet Audio Distance (FAD), Overall Quality (OVL), and Text Relevenace (REL)**:  
+  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951)
+  - [AudioGen: Textually Guided Audio Generation](https://arxiv.org/abs/2209.15352)
+
+#### 🔗 Text Similarity and Overlap Metrics
+- **BLEU, METEOR, and ROUGE-L**:  
+  - [UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation](https://aclanthology.org/2024.emnlp-main.89/)
+  - [Rule: Reliable multimodal rag for factuality in medical vision language models](https://arxiv.org/abs/2407.05131)
+  - [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828)
+  - [Advanced Embedding Techniques in Multimodal Retrieval Augmented Generation: A Comprehensive Study on Cross Modal AI Applications](https://drpress.org/ojs/index.php/jceim/article/view/24094)  
+  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311)
+  - [AsthmaBot: Multi-modal, Multi-Lingual Retrieval Augmented Generation For Asthma Patient Support](https://arxiv.org/abs/2409.15815)
+  - [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150)
+  - [Iterative Retrieval Augmentation for Multi-Modal Knowledge Integration and Generation](http://dx.doi.org/10.36227/techrxiv.172840252.24352951/v1)
+  - [Retrieval-augmented egocentric video captioning](https://arxiv.org/abs/2401.00789)
+  - [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610)
+  - [XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags](https://aclanthology.org/2024.findings-acl.771/)
+  - [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268) 
+
+- **Exact Match (EM)**:
+  - [Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/)
+  - [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text](https://arxiv.org/abs/2210.02928)
+  - [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training (RagVL)](https://arxiv.org/abs/2407.21439)  
+  - [Large Language Models Know What is Key Visual Entity: An LLM-assisted Multimodal Retrieval for VQA](https://aclanthology.org/2024.emnlp-main.613/)
+  - [UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models](https://ieeexplore.ieee.org/document/10535103) (May 2024)  
+  - [Self-adaptive Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2410.11321)  
+  - [Iterative Retrieval Augmentation for Multi-Modal Knowledge Integration and Generation](http://dx.doi.org/10.36227/techrxiv.172840252.24352951/v1)  
+  - [OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation](https://arxiv.org/abs/2412.02592)
+
+- **BERTScore**:
+  - [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
+  - [XL-HeadTags: Leveraging Multimodal Retrieval Augmentation for the Multilingual Generation of News Headlines and Tags](https://aclanthology.org/2024.findings-acl.771/)
+
+#### 📊 Statistical Metrics
+- **Spearman’s Rank Correlation (SRC)**:  
+  - [Predicting Micro-video Popularity via Multi-modal Retrieval Augmentation](https://doi.org/10.1145/3626772.3657929)
+
+#### ⚙️ Efficiency and Computational Performance
+- **Average Retrieval Time per Query**:  
+  - [Advanced Embedding Techniques in Multimodal Retrieval Augmented Generation: A Comprehensive Study on Cross Modal AI Applications](https://drpress.org/ojs/index.php/jceim/article/view/24094)  
+
+- **FLOPs (Floating Point Operations)**:  
+  - [Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control](https://arxiv.org/abs/2402.17535)
+
+- **Response Time**:
+   - [Multi-modal Retrieval Augmented Generation for Product Query](https://bpasjournals.com/library-science/index.php/journal/article/view/2437)
+
+- **Execution Time**:
+   - [SoccerRAG: Multimodal Soccer Information Retrieval via Natural Queries](https://arxiv.org/abs/2406.01273)
+
+- **Average Retrieval Number (ARN)**:
+   - [Self-adaptive Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2410.11321)  
+
+#### 🏥 Domain-Specific Metrics
+- **Clinical Relevance (CR)**:
+   - [AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles](https://arxiv.org/abs/2412.16701)
+- **Geodesic Distance**:
+  - [Img2Loc: Revisiting Image Geolocalization Using Multi-Modality Foundation Models and Image-Based Retrieval-Augmented Generation](https://doi.org/10.1145/3627673.3679582)  
+
+
+---
 
 **This README is a work in progress and will be completed soon. Stay tuned for more updates!**
 
