@@ -336,7 +336,7 @@ Furthermore, we discuss open challenges and future research directions to suppor
 - [RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training](https://arxiv.org/abs/2303.00534)
 - [Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction](https://dl.acm.org/doi/abs/10.1145/3637528.3672041)
 - [MV-Adapter: Multimodal Video Transfer Learning for Video Text Retrieval](https://arxiv.org/abs/2301.07868)
-- [M<sup>2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657833)
+- [M<sup>2</sup>-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657833)
 - [Retrieval-augmented egocentric video captioning](https://arxiv.org/abs/2401.00789)
 - [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text](https://arxiv.org/abs/2210.02928)
 - [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610)
