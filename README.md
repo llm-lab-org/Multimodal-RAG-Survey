@@ -306,10 +306,12 @@ Furthermore, we discuss open challenges and future research directions to suppor
 - [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75/)
 - [EgoInstructor: Retrieval-Augmented Egocentric Video Captioning](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Retrieval-Augmented_Egocentric_Video_Captioning_CVPR_2024_paper.pdf)
 
-
-
 ##### ⏳ Filtering Mechanisms
-
+- [MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation](https://arxiv.org/abs/2501.00332)
+- [MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs](https://arxiv.org/abs/2411.02571)
+- [GME: Improving Universal Multimodal Retrieval by Multimodal LLMs](https://arxiv.org/abs/2412.16855)
+- [MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://aclanthology.org/2025.coling-demos.13/)
+- [RAFT: Adapting Language Model to Domain Specific RAG](https://openreview.net/forum?id=rzQGHXNReU#discussion)
 
 
 ### 🛠 Fusion Mechanisms
