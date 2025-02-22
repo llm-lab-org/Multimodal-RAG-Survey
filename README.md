@@ -451,8 +451,9 @@ Furthermore, we discuss open challenges and future research directions to suppor
   - [OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation](https://arxiv.org/abs/2412.02592)
 
 - **min(+P, Se)**:
+
 It represents the minimum value between precision (+P) and sensitivity (Se), providing a balanced measure of model performance.
-  - REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models](https://arxiv.org/abs/2402.07016)
+  - [REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models](https://arxiv.org/abs/2402.07016)
   - [EMERGE: Integrating RAG for Improved Multimodal EHR Predictive Modeling](https://arxiv.org/abs/2406.00036)
 
 #### 📝 Fluency and Readability
