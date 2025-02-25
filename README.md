@@ -612,7 +612,7 @@ It represents the minimum value between precision (+P) and sensitivity (Se), pro
 
 ---
 ## 🔗 Citations
-If you find our paper, code, data, or models useful, please cite the paper:
+If you find our paper or repository useful, please cite the paper:
 ```
 @misc{abootorabi2025askmodalitycomprehensivesurvey,
       title={Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation}, 
