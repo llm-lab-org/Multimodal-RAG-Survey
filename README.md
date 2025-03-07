@@ -626,3 +626,8 @@ If you find our paper or repository useful, please cite the paper:
 ```
 ## 📧 Contact
 If you have questions, please send an email to mahdi.abootorabi2@gmail.com.
+
+
+# ⭐ Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=DEEP-PolyU/Awesome-GraphRAG&type=Date)
