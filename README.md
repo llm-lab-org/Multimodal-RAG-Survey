@@ -362,7 +362,7 @@ Furthermore, we discuss open challenges and future research directions to suppor
 - [Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/)  
 - [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](https://openaccess.thecvf.com/content/CVPR2024/html/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPR_2024_paper.html)  
 - [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093)  
-- [Img2Loc: Revisiting Image Geolocalization Using Multi-Modality Foundation Models and Image-Based Retrieval-Augmented Generation](https://doi.org/10.1145/3627673.3679582)  
+- [Img2Loc: Revisiting Image Geolocalization Using Multi-Modality Foundation Models and Image-Based Retrieval-Augmented Generation](https://dl.acm.org/doi/10.1145/3626772.3657673)  
 - [Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering](https://arxiv.org/abs/2412.20927) 
 
 #### 🎡 Adaptive and Iterative Retrieval
