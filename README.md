@@ -603,7 +603,7 @@ It represents the minimum value between precision (+P) and sensitivity (Se), pro
 - **Clinical Relevance (CR)**:
    - [AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles](https://arxiv.org/abs/2412.16701)
 - **Geodesic Distance**:
-  - [Img2Loc: Revisiting Image Geolocalization Using Multi-Modality Foundation Models and Image-Based Retrieval-Augmented Generation](https://doi.org/10.1145/3627673.3679582)  
+  - [Img2Loc: Revisiting Image Geolocalization Using Multi-Modality Foundation Models and Image-Based Retrieval-Augmented Generation](https://dl.acm.org/doi/10.1145/3626772.3657673)
 
 
 ---
