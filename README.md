@@ -287,7 +287,7 @@ Furthermore, we discuss open challenges and future research directions to suppor
 - [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2412.10704)
 - [DSE: Unifying Multimodal Retrieval via Document Screenshot Embedding](https://arxiv.org/abs/2406.11251)
 - [Robust Multi Model RAG Pipeline For Documents Containing Text, Table & Images](https://www.semanticscholar.org/paper/Robust-Multi-Model-RAG-Pipeline-For-Documents-Text%2C-Joshi-Gupta/282d9048c524eb3d87f73a3fe5ef49bc7297e8b4)
-- [LoCAL: LoRA-Contextualizing Adaptation of Large Multimodal Models for Long Document Understanding](https://arxiv.org/abs/2411.01106)
+- [SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding](https://arxiv.org/abs/2411.01106)
 
 
 #### 🥇🥈 Re-ranking Strategies
