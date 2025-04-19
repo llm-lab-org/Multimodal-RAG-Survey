@@ -4,7 +4,13 @@
 
 This repository is designed to collect and categorize papers related to Multimodal Retrieval-Augmented Generation (RAG) according to our survey paper: [Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2502.08826). Given the rapid growth in this field, we will continuously update both the paper and this repository to serve as a resource for researchers working on future projects.
 
+## 📢 News
+- **February 17, 2025**: We release the first survey for Multimodal Retrieval-Augmented Generation.
+- **April 18, 2025**: Our [website](https://multimodalrag.github.io/) for this topic is up now.  
 
+
+
+  *Feel free to cite, contribute, or open a pull request to add recent related papers!*
 ## 📑 List of Contents
 
 
@@ -188,8 +194,8 @@ Furthermore, we discuss open challenges and future research directions to suppor
 ---
 ## 📄 Papers
 ### 📚 RAG-related Surveys
-- [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
-- [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431) 
+- [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) ![](https://img.shields.io/badge/date-2025.03-red)
+- [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431)  ![](https://img.shields.io/badge/date-2023.12-red)
 - [Old IR Methods Meet RAG](https://dl.acm.org/doi/pdf/10.1145/3626772.3657935)  
 - [A Survey on Retrieval-Augmented Text Generation](https://arxiv.org/abs/2202.01110)  
 - [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)  
