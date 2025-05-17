@@ -7,7 +7,7 @@ This repository is designed to collect and categorize papers related to Multimod
 ## 📢 News
 - **February 17, 2025**: We release the first survey for Multimodal Retrieval-Augmented Generation.
 - **April 18, 2025**: Our [website](https://multimodalrag.github.io/) for this topic is up now.  
-
+- **May 15, 2025**: This paper has been accepted for publication in the **[ACL 2025](https://2025.aclweb.org/) Findings**.
 
 
   *Feel free to cite, contribute, or open a pull request to add recent related papers!*
