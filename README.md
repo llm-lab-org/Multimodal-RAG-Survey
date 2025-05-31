@@ -61,7 +61,7 @@ This repository is designed to collect and categorize papers related to Multimod
 
 ---
 ## 🔎 General Pipeline
-![output-onlinepngtools (1)](https://github.com/user-attachments/assets/fabab7c0-9ca3-4d0b-b4d5-fb46defc8620)
+![MM-RAG_V2_500 (1)](https://github.com/user-attachments/assets/aa395c6b-3c6a-49ef-81de-5e415d507491)
 
 ## 🌿 Taxonomy of Recent Advances and Enhancements
 ![6634_Ask_in_Any_Modality_A_Com_organized-1-cropped](https://github.com/user-attachments/assets/0b5cd8e6-1aef-402b-a0a3-e3bf5cf555ae)
