@@ -64,10 +64,11 @@ This repository is designed to collect and categorize papers related to Multimod
 ![MM-RAG_V2_500 (1)](https://github.com/user-attachments/assets/aa395c6b-3c6a-49ef-81de-5e415d507491)
 
 ## 🌿 Taxonomy of Recent Advances and Enhancements
-![6634_Ask_in_Any_Modality_A_Com_organized-1-cropped](https://github.com/user-attachments/assets/0b5cd8e6-1aef-402b-a0a3-e3bf5cf555ae)
+![Multimodal_Retrieval_Augmented_Generation__A_Survey___acl_final_organized](https://github.com/user-attachments/assets/bf984875-d008-4b42-abcb-35781fe27278)
 
 ## ⚙ Taxonomy of Application Domains
-![Multimodal_Retrieval_Augmented_Generation__A_Survey (23)-30 (2)_page-0001](https://github.com/user-attachments/assets/65dd88ab-5f26-4d54-91c1-4f8f760d2b67)
+![applications](https://github.com/user-attachments/assets/da3dbd6e-b647-487a-ab00-d01f8ac6cc91)
+
 
 
 ## 📝 Abstract
