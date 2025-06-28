@@ -297,28 +297,29 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 #### 🥇🥈 Re-ranking Strategies
 ##### 🎯 Optimized Example Selection
-- [MSIER: How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?](https://aclanthology.org/2024.emnlp-main.305/)
-- [Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach](https://arxiv.org/abs/2407.00978)
-- [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://aclanthology.org/2024.emnlp-main.62/)
-- [RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training](https://dl.acm.org/doi/10.1145/3581783.3611830)
-- [M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657833)
+- [Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach](https://arxiv.org/abs/2407.00978) (9 Dec 2024)
+- [MSIER: How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?](https://aclanthology.org/2024.emnlp-main.305/) (Nov 2024)
+- [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://aclanthology.org/2024.emnlp-main.62/) (Nov 2024)
+- [M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657833) (11 Jul 2024)
+- [RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training](https://dl.acm.org/doi/10.1145/3581783.3611830) (27 Oct 2023)
   
 ##### 🧮 Relevance Score Evaluation
-- [RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance](https://arxiv.org/abs/2501.03995)
-- [Re-ranking the Context for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2501.04695)
-- [UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models](https://ieeexplore.ieee.org/document/10535103)
-- [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://arxiv.org/abs/2411.15041)
-- [LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657740)
-- [RAGTrans: Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction](https://dl.acm.org/doi/10.1145/3637528.3672041)
-- [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75/)
-- [EgoInstructor: Retrieval-Augmented Egocentric Video Captioning](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Retrieval-Augmented_Egocentric_Video_Captioning_CVPR_2024_paper.pdf)
+- [Re-ranking the Context for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2501.04695) (8 Jan 2025)
+- [RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance](https://arxiv.org/abs/2501.03995) (7 Jan 2025)
+- [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://arxiv.org/abs/2411.15041) (22 Nov 2024)
+- [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75/) (Nov 2024)
+- [RAGTrans: Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction](https://dl.acm.org/doi/10.1145/3637528.3672041) (24 Aug 2024)
+- [LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657740) (11 Jul 2024)
+- [EgoInstructor: Retrieval-Augmented Egocentric Video Captioning](https://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Retrieval-Augmented_Egocentric_Video_Captioning_CVPR_2024_paper.pdf) (19 Jun 2024)
+- [UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models](https://ieeexplore.ieee.org/document/10535103) (20 May 2024)
+
 
 ##### ⏳ Filtering Mechanisms
-- [MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation](https://arxiv.org/abs/2501.00332)
-- [MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs](https://arxiv.org/abs/2411.02571)
-- [GME: Improving Universal Multimodal Retrieval by Multimodal LLMs](https://arxiv.org/abs/2412.16855)
-- [MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://aclanthology.org/2025.coling-demos.13/)
-- [RAFT: Adapting Language Model to Domain Specific RAG](https://openreview.net/forum?id=rzQGHXNReU#discussion)
+- [GME: Improving Universal Multimodal Retrieval by Multimodal LLMs](https://arxiv.org/abs/2412.16855) (1 Apr 2025)
+- [MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs](https://arxiv.org/abs/2411.02571) (22 Feb 2025)
+- [MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://aclanthology.org/2025.coling-demos.13/) (Jan 2025)
+- [MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation](https://arxiv.org/abs/2501.00332) (31 Dec 2024)
+- [RAFT: Adapting Language Model to Domain Specific RAG](https://openreview.net/forum?id=rzQGHXNReU#discussion) (26 Aug 2024)
 
 
 ### 🛠 Fusion Mechanisms
