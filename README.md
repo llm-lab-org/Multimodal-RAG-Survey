@@ -211,20 +211,21 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 ### 👓 Retrieval Strategies Advances
 #### 🔍 Efficient-Search and Similarity Retrieval
 ##### ❓ Maximum Inner Product Search-MIPS
-- [ADQ: Adaptive Dataset Quantization](https://arxiv.org/abs/2412.16895)
-- [Query-Aware Quantization for Maximum Inner Product Search](https://ojs.aaai.org/index.php/AAAI/article/view/25613)
-- [TPU-KNN: K Nearest Neighbor Search at Peak FLOP/s](https://papers.nips.cc/paper_files/paper/2022/hash/639d992f819c2b40387d4d5170b8ffd7-Abstract-Conference.html)
-- [ScaNN: Accelerating large-scale inference with anisotropic vector quantization](https://dl.acm.org/doi/abs/10.5555/3524938.3525302)
-- [BanditMIPS: Faster Maximum Inner Product Search in High Dimensions](https://openreview.net/forum?id=FKkkdyRdsD)
-- [MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality](https://arxiv.org/abs/2312.06397)
-- [FARGO: Fast Maximum Inner Product Search via Global Multi-Probing](https://dl.acm.org/doi/10.14778/3579075.3579084)
-- [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text](https://arxiv.org/abs/2210.02928)
-- [RA-CM3: Retrieval-Augmented Multimodal Language Modeling](https://proceedings.mlr.press/v202/yasunaga23a.html)
-- [Efficient and Effective Retrieval of Dense-Sparse Hybrid Vectors using Graph-based Approximate Nearest Neighbor Search](https://arxiv.org/abs/2410.20381)
-- [Revisiting Neural Retrieval on Accelerators](https://dl.acm.org/doi/10.1145/3580305.3599897)
-- [DeeperImpact: Optimizing Sparse Learned Index Structures](https://arxiv.org/abs/2405.17093)
-- [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://arxiv.org/abs/2409.10516)
-- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268)
+- [ADQ: Adaptive Dataset Quantization (22 Dec 2024)](https://arxiv.org/abs/2412.16895)
+- [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval (16 Sep 2024)](https://arxiv.org/abs/2409.10516)
+- [Efficient and Effective Retrieval of Dense-Sparse Hybrid Vectors using Graph-based Approximate Nearest Neighbor Search (27 Oct 2024)](https://arxiv.org/abs/2410.20381)
+- [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation (21 Jul 2024)](https://arxiv.org/abs/2407.15268)
+- [DeeperImpact: Optimizing Sparse Learned Index Structures (27 May 2024)](https://arxiv.org/abs/2405.17093)
+- [MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality (11 Dec 2023)](https://arxiv.org/abs/2312.06397)
+- [BanditMIPS: Faster Maximum Inner Product Search in High Dimensions (24 Sep 2023)](https://openreview.net/forum?id=FKkkdyRdsD)
+- [Revisiting Neural Retrieval on Accelerators (4 Aug 2023)](https://dl.acm.org/doi/10.1145/3580305.3599897)
+- [FARGO: Fast Maximum Inner Product Search via Global Multi-Probing (1 Jan 2023)](https://dl.acm.org/doi/10.14778/3579075.3579084)
+- [Query-Aware Quantization for Maximum Inner Product Search (23 Jun 2023)](https://ojs.aaai.org/index.php/AAAI/article/view/25613)
+- [RA-CM3: Retrieval-Augmented Multimodal Language Modeling (12 Apr 2023)](https://proceedings.mlr.press/v202/yasunaga23a.html)
+- [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text (6 Oct 2022)](https://arxiv.org/abs/2210.02928)
+- [TPU-KNN: K Nearest Neighbor Search at Peak FLOP/s (28 Jun 2022)](https://papers.nips.cc/paper_files/paper/2022/hash/639d992f819c2b40387d4d5170b8ffd7-Abstract-Conference.html)
+- [ScaNN: Accelerating large-scale inference with anisotropic vector quantization (13 Jul 2020)](https://dl.acm.org/doi/abs/10.5555/3524938.3525302)
+
 
 ##### 💫 Multi-Modal Encoders
 - [Mi-RAG: Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/)
