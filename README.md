@@ -434,45 +434,51 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [RA-CM3: Retrieval-Augmented Multimodal Language Modeling](https://arxiv.org/abs/2211.12561) ![](https://img.shields.io/badge/date-2023.01-red)
 
 ### 🛠 Tasks Addressed by Multimodal RAGs
-- [UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models](https://ieeexplore.ieee.org/abstract/document/10535103/)
-- [REVEAL: Retrieval-Augmented Visual-Language Pre-Training With Multi-Source Multimodal Knowledge Memory](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_REVEAL_Retrieval-Augmented_Visual-Language_Pre-Training_With_Multi-Source_Multimodal_Knowledge_Memory_CVPR_2023_paper.html)
-- [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150)
-- [Retrieval-augmented multimodal language modeling](https://arxiv.org/abs/2211.12561)
-- [Re-imagen: Retrieval-augmented text-to-image generator](https://arxiv.org/abs/2209.14491)
-- [A comprehensive survey of hallucination mitigation techniques in large language models](https://www.amanchadha.com/research/2401.01313.pdf)
-- [Mllm is a strong reranker: Advancing multimodal retrieval-augmented generation via knowledge-enhanced reranking and noise-injected training](https://arxiv.org/abs/2407.21439)
-- [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2410.14154)
-- [Ramm: Retrieval-augmented biomedical visual question answering with multi-modal pre-training](https://dl.acm.org/doi/abs/10.1145/3581783.3611830?casa_token=MWu5Fgy31X8AAAAA:C0Fip7NZEfRSiSnzpdf6z9rLnL-kyGkjnN0OdghmCfq7rY0OSPoUGER5jw8_82vFKYE6KArQApEUfA)
-- [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093)
-- [Ragar, your falsehood radar: Rag-augmented reasoning for political fact-checking using multimodal large language models](https://arxiv.org/abs/2404.12065)
-- [Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680731?casa_token=WcxcaPoWaXIAAAAA:T_4moLyZ5X5J8W137PRysNmdrwx6aH_sMMw1zV9VHeBOGhlJ6rvYqwy3oyzD7Jev3nNkYRlBYbbmJw)
-- [M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval](https://dl.acm.org/doi/abs/10.1145/3626772.3657833)
-- [Self-adaptive Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2410.11321)
+- [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093) ![](https://img.shields.io/badge/date-2024.12-red)  
+- [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2410.14154) ![](https://img.shields.io/badge/date-2024.10-red)  
+- [Self-adaptive Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2410.11321) ![](https://img.shields.io/badge/date-2024.10-red)  
+- [Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680731?casa_token=WcxcaPoWaXIAAAAA:T_4moLyZ5X5J8W137PRysNmdrwx6aH_sMMw1zV9VHeBOGhlJ6rvYqwy3oyzD7Jev3nNkYRlBYbbmJw) ![](https://img.shields.io/badge/date-2024.10-red)  
+- [Mllm is a strong reranker: Advancing multimodal retrieval-augmented generation via knowledge-enhanced reranking and noise-injected training](https://arxiv.org/abs/2407.21439) ![](https://img.shields.io/badge/date-2024.09-red)  
+- [Ragar, your falsehood radar: Rag-augmented reasoning for political fact-checking using multimodal large language models](https://arxiv.org/abs/2404.12065) ![](https://img.shields.io/badge/date-2024.07-red)  
+- [M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval](https://dl.acm.org/doi/abs/10.1145/3626772.3657833) ![](https://img.shields.io/badge/date-2024.07-red)  
+- [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150) ![](https://img.shields.io/badge/date-2024.06-red)  
+- [UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models](https://ieeexplore.ieee.org/abstract/document/10535103/) ![](https://img.shields.io/badge/date-2024.05-red)  
+- [A comprehensive survey of hallucination mitigation techniques in large language models](https://www.amanchadha.com/research/2401.01313.pdf) ![](https://img.shields.io/badge/date-2024.01-red)  
+- [Ramm: Retrieval-augmented biomedical visual question answering with multi-modal pre-training](https://dl.acm.org/doi/abs/10.1145/3581783.3611830?casa_token=MWu5Fgy31X8AAAAA:C0Fip7NZEfRSiSnzpdf6z9rLnL-kyGkjnN0OdghmCfq7rY0OSPoUGER5jw8_82vFKYE6KArQApEUfA) ![](https://img.shields.io/badge/date-2023.10-red)  
+- [Retrieval-augmented multimodal language modeling](https://arxiv.org/abs/2211.12561) ![](https://img.shields.io/badge/date-2023.06-red)  
+- [REVEAL: Retrieval-Augmented Visual-Language Pre-Training With Multi-Source Multimodal Knowledge Memory](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_REVEAL_Retrieval-Augmented_Visual-Language_Pre-Training_With_Multi-Source_Multimodal_Knowledge_Memory_CVPR_2023_paper.html) ![](https://img.shields.io/badge/date-2023.04-red)  
+- [Re-imagen: Retrieval-augmented text-to-image generator](https://arxiv.org/abs/2209.14491) ![](https://img.shields.io/badge/date-2022.11-red)  
+
 
 #### 🩺 Healthcare and Medicine
-- [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085)
-- [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://aclanthology.org/2024.emnlp-main.62/)
-- [AsthmaBot: Multi-modal, Multi-Lingual Retrieval Augmented Generation For Asthma Patient Support](https://arxiv.org/abs/2409.15815)
-- [REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models](https://arxiv.org/abs/2402.07016)
-- [Hybrid RAG-Empowered Multi-Modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-Based Contract Approach](https://ieeexplore.ieee.org/abstract/document/10812735?casa_token=LNKXIPFMjI0AAAAA:IcPhMEQM2oJXUbl5beryVYfNp64gFZIVD6kl4bmZHq0rzX1dzDb03xyVR-HbfaxP-IM5aJlshQ)
-- [Fact-aware multimodal retrieval augmentation for accurate medical radiology report generation](https://arxiv.org/abs/2407.15268)
+- [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085) ![](https://img.shields.io/badge/date-2025.03-red)  
+- [Fact-aware multimodal retrieval augmentation for accurate medical radiology report generation](https://arxiv.org/abs/2407.15268) ![](https://img.shields.io/badge/date-2025.02-red)  
+- [Hybrid RAG-Empowered Multi-Modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-Based Contract Approach](https://ieeexplore.ieee.org/abstract/document/10812735?casa_token=LNKXIPFMjI0AAAAA:IcPhMEQM2oJXUbl5beryVYfNp64gFZIVD6kl4bmZHq0rzX1dzDb03xyVR-HbfaxP-IM5aJlshQ) ![](https://img.shields.io/badge/date-2024.12-red)  
+- [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://aclanthology.org/2024.emnlp-main.62/) ![](https://img.shields.io/badge/date-2024.11-red)  
+- [AsthmaBot: Multi-modal, Multi-Lingual Retrieval Augmented Generation For Asthma Patient Support](https://arxiv.org/abs/2409.15815) ![](https://img.shields.io/badge/date-2024.09-red)  
+- [REALM: RAG-Driven Enhancement of Multimodal Electronic Health Records Analysis via Large Language Models](https://arxiv.org/abs/2402.07016) ![](https://img.shields.io/badge/date-2024.02-red)
+
+
 #### 💻 Software Engineering
-- [Docprompting: Generating code by retrieving the docs](https://drive.google.com/file/d/1v4nEOr4D5z7zpi1nXSONFAqJNeqvitwb/view)
-- [RACE: Retrieval-augmented commit message generation](https://arxiv.org/abs/2203.02700)
-- [Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning](https://dl.acm.org/doi/10.1109/icse48619.2023.00205)
-- [Retrieval Augmented Code Generation and Summarization](https://arxiv.org/abs/2108.11601)
+- [Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning](https://dl.acm.org/doi/10.1109/icse48619.2023.00205) ![](https://img.shields.io/badge/date-2023.07-red)  
+- [Docprompting: Generating code by retrieving the docs](https://drive.google.com/file/d/1v4nEOr4D5z7zpi1nXSONFAqJNeqvitwb/view) ![](https://img.shields.io/badge/date-2023.02-red)  
+- [RACE: Retrieval-augmented commit message generation](https://arxiv.org/abs/2203.02700) ![](https://img.shields.io/badge/date-2022.10-red)  
+- [Retrieval Augmented Code Generation and Summarization](https://arxiv.org/abs/2108.11601) ![](https://img.shields.io/badge/date-2021.09-red)  
+- 
 #### 🕶️ Fashion and E-Commerce
-- [Unifashion: A unified vision-language model for multimodal fashion retrieval and generation](https://arxiv.org/abs/2408.11305)
-- [Multi-modal Retrieval Augmented Generation for Product Query](https://openurl.ebsco.com/openurl?sid=ebsco:plink:scholar&id=ebsco:gcd:180918461&crl=c)
-- [LLM4DESIGN: An Automated Multi-Modal System for Architectural and Environmental Design](https://arxiv.org/abs/2407.12025)
+- [Unifashion: A unified vision-language model for multimodal fashion retrieval and generation](https://arxiv.org/abs/2408.11305) ![](https://img.shields.io/badge/date-2024.10-red)  
+- [Multi-modal Retrieval Augmented Generation for Product Query](https://openurl.ebsco.com/openurl?sid=ebsco:plink:scholar&id=ebsco:gcd:180918461&crl=c) ![](https://img.shields.io/badge/date-2024.07-red)  
+- [LLM4DESIGN: An Automated Multi-Modal System for Architectural and Environmental Design](https://arxiv.org/abs/2407.12025) ![](https://img.shields.io/badge/date-2024.06-red)  
+- 
 #### 🤹 Entertainment and Social Computing
-- [SoccerRAG: Multimodal Soccer Information Retrieval via Natural Queries](https://ieeexplore.ieee.org/abstract/document/10859209?casa_token=seYROrW0u9oAAAAA:jclFZaX04YKUh3wKUzBZwKYDgQi_kbUPpFyJPO0HWSgiiqlF3bS9aagz3fUTc0dc9VihYJSiNQ)
-- [Predicting Micro-video Popularity via Multi-modal Retrieval Augmentation](https://dl.acm.org/doi/abs/10.1145/3626772.3657929)
+- [SoccerRAG: Multimodal Soccer Information Retrieval via Natural Queries](https://ieeexplore.ieee.org/abstract/document/10859209?casa_token=seYROrW0u9oAAAAA:jclFZaX04YKUh3wKUzBZwKYDgQi_kbUPpFyJPO0HWSgiiqlF3bS9aagz3fUTc0dc9VihYJSiNQ) ![](https://img.shields.io/badge/date-2025.02-red)  
+- [Predicting Micro-video Popularity via Multi-modal Retrieval Augmentation](https://dl.acm.org/doi/abs/10.1145/3626772.3657929) ![](https://img.shields.io/badge/date-2024.07-red)  
+- 
 #### 🚗 Emerging Applications
-- [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828)
-- [ENWAR: A RAG-empowered Multi-Modal LLM Framework for Wireless Environment Perception](https://arxiv.org/abs/2410.18104)
-- [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](https://arxiv.org/abs/2410.21943)
-- [Img2Loc: Revisiting image geolocalization using multi-modality foundation models and image-based retrieval-augmented generation](https://dl.acm.org/doi/abs/10.1145/3626772.3657673)
+- [ENWAR: A RAG-empowered Multi-Modal LLM Framework for Wireless Environment Perception](https://arxiv.org/abs/2410.18104) ![](https://img.shields.io/badge/date-2024.10-red)
+- [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](https://arxiv.org/abs/2410.21943) ![](https://img.shields.io/badge/date-2024.10-red)  
+- [Img2Loc: Revisiting image geolocalization using multi-modality foundation models and image-based retrieval-augmented generation](https://dl.acm.org/doi/abs/10.1145/3626772.3657673) ![](https://img.shields.io/badge/date-2024.07-red)
+- [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828) ![](https://img.shields.io/badge/date-2024.05-red)  
 
 ### 📏 Evaluation Metrics
 #### 📊 Retrieval Performance
