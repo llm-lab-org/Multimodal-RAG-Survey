@@ -541,28 +541,28 @@ It represents the minimum value between precision (+P) and sensitivity (Se), pro
   - [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html) ![](https://img.shields.io/badge/date-2023.06-red) 
 
 - **Consensus-Based Image Description Evaluation (CIDEr)**:
-  - [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html)  
-  - [UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation](https://aclanthology.org/2024.emnlp-main.89/)
-  - [MSIER: How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?](https://aclanthology.org/2024.emnlp-main.305/)
-  - [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828)
-  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/abs/2405.10311)  
-  - [REVEAL: Retrieval-Augmented Visual-Language Pre-Training With Multi-Source Multimodal Knowledge Memory](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_REVEAL_Retrieval-Augmented_Visual-Language_Pre-Training_With_Multi-Source_Multimodal_Knowledge_Memory_CVPR_2023_paper.html)
-  - [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150)
-  - [Retrieval-augmented egocentric video captioning](https://arxiv.org/abs/2401.00789)
-  - [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610)
-  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951)
+  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/abs/2405.10311) ![](https://img.shields.io/badge/date-2025.03-red)  
+  - [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150) ![](https://img.shields.io/badge/date-2024.06-red)  
+  - [Retrieval-augmented egocentric video captioning](https://arxiv.org/abs/2401.00789) ![](https://img.shields.io/badge/date-2024.06-red)  
+  - [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828) ![](https://img.shields.io/badge/date-2024.05-red)  
+  - [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610) ![](https://img.shields.io/badge/date-2024.04-red)  
+  - [UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation](https://aclanthology.org/2024.emnlp-main.89/) ![](https://img.shields.io/badge/date-2024.11-red)  
+  - [MSIER: How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?](https://aclanthology.org/2024.emnlp-main.305/) ![](https://img.shields.io/badge/date-2024.11-red)  
+  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951) ![](https://img.shields.io/badge/date-2023.11-red)  
+  - [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html) ![](https://img.shields.io/badge/date-2023.06-red)  
+  - [REVEAL: Retrieval-Augmented Visual-Language Pre-Training With Multi-Source Multimodal Knowledge Memory](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_REVEAL_Retrieval-Augmented_Visual-Language_Pre-Training_With_Multi-Source_Multimodal_Knowledge_Memory_CVPR_2023_paper.html) ![](https://img.shields.io/badge/date-2023.04-red)  
 
 - **SPICE**:
-  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/abs/2405.10311)   
+  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/abs/2405.10311) ![](https://img.shields.io/badge/date-2025.04-red)  
 
 - **SPIDEr**:
-  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951)
+  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951) ![](https://img.shields.io/badge/date-2023.11-red) 
 
  
 #### 🎵 Audio-related Metrics
 - **Fréchet Audio Distance (FAD), Overall Quality (OVL), and Text Relevenace (REL)**:  
-  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951)
-  - [AudioGen: Textually Guided Audio Generation](https://arxiv.org/abs/2209.15352)
+  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951) ![](https://img.shields.io/badge/date-2023.11-red) 
+  - [AudioGen: Textually Guided Audio Generation](https://arxiv.org/abs/2209.15352) ![](https://img.shields.io/badge/date-2023.03-red)
 
 #### 🔗 Text Similarity and Overlap Metrics
 - **BLEU, METEOR, and ROUGE-L**:  
