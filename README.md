@@ -204,7 +204,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219) ![](https://img.shields.io/badge/date-2024.07-red)
 - [Old IR Methods Meet RAG](https://dl.acm.org/doi/pdf/10.1145/3626772.3657935) ![](https://img.shields.io/badge/date-2024.07-red)
 - [A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211) ![](https://img.shields.io/badge/date-2024.06-red)
-- [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431)  ![](https://img.shields.io/badge/date-2023.12-red) ![](https://img.shields.io/badge/date-2023.12-red)
+- [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431) ![](https://img.shields.io/badge/date-2023.12-red)
 - [A Survey on Retrieval-Augmented Text Generation](https://arxiv.org/abs/2202.01110) ![](https://img.shields.io/badge/date-2022.02-red)
 
 
