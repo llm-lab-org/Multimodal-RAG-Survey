@@ -192,20 +192,20 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 ---
 ## 📄 Papers
 ### 📚 RAG-related Surveys
+- [RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543) ![](https://img.shields.io/badge/date-2025.06-red)
 - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) ![](https://img.shields.io/badge/date-2025.03-red)
-- [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431)  ![](https://img.shields.io/badge/date-2023.12-red)
-- [Old IR Methods Meet RAG](https://dl.acm.org/doi/pdf/10.1145/3626772.3657935)  
-- [A Survey on Retrieval-Augmented Text Generation](https://arxiv.org/abs/2202.01110)  
-- [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921)  
-- [A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211)
-- [RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543)  
-- [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make Your LLMs Use External Data More Wisely](https://arxiv.org/abs/2409.14924)  
-- [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219)  
-- [Retrieval-Augmented Generation for Natural Language Processing: A Survey](https://arxiv.org/abs/2407.13193)  
-- [A Survey on Retrieval-Augmented Text Generation for Large Language Models](https://arxiv.org/abs/2404.10981)  
-- [Graph Retrieval-Augmented Generation for Large Language Models: A Survey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895062) 
-- [Trustworthiness in Retrieval-Augmented Generation Systems: A Survey](https://arxiv.org/abs/2409.10102)  
-- [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136)
+- [Retrieval-Augmented Generation for Natural Language Processing: A Survey](https://arxiv.org/abs/2407.13193) ![](https://img.shields.io/badge/date-2025.03-red)
+- [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136) ![](https://img.shields.io/badge/date-2025.02-red)
+- [Graph Retrieval-Augmented Generation for Large Language Models: A Survey](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895062) ![](https://img.shields.io/badge/date-2024.12-red)
+- [Graph Retrieval-Augmented Generation: A Survey](https://arxiv.org/abs/2408.08921) ![](https://img.shields.io/badge/date-2024.09-red)
+- [Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make Your LLMs Use External Data More Wisely](https://arxiv.org/abs/2409.14924) ![](https://img.shields.io/badge/date-2024.09-red)
+- [Trustworthiness in Retrieval-Augmented Generation Systems: A Survey](https://arxiv.org/abs/2409.10102) ![](https://img.shields.io/badge/date-2024.09-red)
+- [A Survey on Retrieval-Augmented Text Generation for Large Language Models](https://arxiv.org/abs/2404.10981) ![](https://img.shields.io/badge/date-2024.08-red) 
+- [Searching for Best Practices in Retrieval-Augmented Generation](https://arxiv.org/abs/2407.01219) ![](https://img.shields.io/badge/date-2024.07-red)
+- [Old IR Methods Meet RAG](https://dl.acm.org/doi/pdf/10.1145/3626772.3657935) ![](https://img.shields.io/badge/date-2024.07-red)
+- [A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211) ![](https://img.shields.io/badge/date-2024.06-red)
+- [Benchmarking Large Language Models in Retrieval-Augmented Generation](https://arxiv.org/abs/2309.01431)  ![](https://img.shields.io/badge/date-2023.12-red) ![](https://img.shields.io/badge/date-2023.12-red)
+- [A Survey on Retrieval-Augmented Text Generation](https://arxiv.org/abs/2202.01110) ![](https://img.shields.io/badge/date-2022.02-red)
 
 
 ### 👓 Retrieval Strategies Advances
