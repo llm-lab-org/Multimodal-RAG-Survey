@@ -280,6 +280,21 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval](https://arxiv.org/abs/2403.17998) ![](https://img.shields.io/badge/date-2024.03-red)
 - [MV-Adapter: Multimodal Video Transfer Learning for Video Text Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Jin_MV-Adapter_Multimodal_Video_Transfer_Learning_for_Video_Text_Retrieval_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/date-2023.01-red)
 
+
+##### 🎶 Audio-Centric
+- [CA-CLAP: Retrieval Augmented Generation in Prompt-based Text-to-Speech Synthesis with Context-Aware Contrastive Language-Audio Pretraining](https://arxiv.org/abs/2406.03714) ![](https://img.shields.io/badge/date-2024.06-red)
+- [VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos](https://arxiv.org/abs/2502.01549) ![](https://img.shields.io/badge/date-2025.02-red)
+- [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093) ![](https://img.shields.io/badge/date-2024.12-red)
+- [DrVideo: Document Retrieval Based Long Video Understanding](https://arxiv.org/abs/2406.12846) ![](https://img.shields.io/badge/date-2024.11-red)
+- [OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer](https://aclanthology.org/2024.emnlp-main.559/) ![](https://img.shields.io/badge/date-2024.11-red)
+- [Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval](https://dl.acm.org/doi/10.1145/3664647.3680731) ![](https://img.shields.io/badge/date-2024.10-red)
+- [iRAG: Advancing RAG for Videos with an Incremental Approach](https://dl.acm.org/doi/10.1145/3627673.3680088) ![](https://img.shields.io/badge/date-2024.10-red)
+- [CTCH: Contrastive Transformer Cross-Modal Hashing for Video-Text Retrieval](https://www.ijcai.org/proceedings/2024/136) ![](https://img.shields.io/badge/date-2024.08-red)
+- [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610) ![](https://img.shields.io/badge/date-2024.04-red)
+- [Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval](https://arxiv.org/abs/2403.17998) ![](https://img.shields.io/badge/date-2024.03-red)
+- [MV-Adapter: Multimodal Video Transfer Learning for Video Text Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Jin_MV-Adapter_Multimodal_Video_Transfer_Learning_for_Video_Text_Retrieval_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/date-2023.01-red)
+
+
 ##### 📰 Document Retrieval and Layout Understanding
 - [SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding](https://arxiv.org/abs/2411.01106) ![](https://img.shields.io/badge/date-2025.03-red)
 - [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/abs/2407.01449) ![](https://img.shields.io/badge/date-2025.02-red)
