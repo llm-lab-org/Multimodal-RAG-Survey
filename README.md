@@ -288,11 +288,10 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models](https://arxiv.org/abs/2502.14727) ![](https://img.shields.io/badge/date-2025.02-red)
 - [SEAL: Speech Embedding Alignment Learning for Speech Large Language Model with Retrieval-Augmented Generation](https://arxiv.org/abs/2502.02603) ![](https://img.shields.io/badge/date-2025.01-red)
 - [Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with Retrieval-Augmented Generation](https://arxiv.org/abs/2411.05141) ![](https://img.shields.io/badge/date-2025.01-red)
-- [iRAG: Advancing RAG for Videos with an Incremental Approach](https://dl.acm.org/doi/10.1145/3627673.3680088) ![](https://img.shields.io/badge/date-2024.10-red)
-- [CTCH: Contrastive Transformer Cross-Modal Hashing for Video-Text Retrieval](https://www.ijcai.org/proceedings/2024/136) ![](https://img.shields.io/badge/date-2024.08-red)
-- [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610) ![](https://img.shields.io/badge/date-2024.04-red)
-- [Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval](https://arxiv.org/abs/2403.17998) ![](https://img.shields.io/badge/date-2024.03-red)
-- [MV-Adapter: Multimodal Video Transfer Learning for Video Text Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Jin_MV-Adapter_Multimodal_Video_Transfer_Learning_for_Video_Text_Retrieval_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/date-2023.01-red)
+- [DRCap: Decoding CLAP Latents with Retrieval-Augmented Generation for Zero-shot Audio Captioning](https://arxiv.org/abs/2410.09472) ![](https://img.shields.io/badge/date-2025.01-red)
+- [P2PCAP: Enhancing Retrieval-Augmented Audio Captioning with Generation-Assisted Multimodal Querying and Progressive Learning](https://arxiv.org/abs/2410.10913) ![](https://img.shields.io/badge/date-2025.01-red)
+- [LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented Generation](https://arxiv.org/abs/2409.08597) ![](https://img.shields.io/badge/date-2024.09-red)
+- [Contextual asr with retrieval augmented large language model.](https://doi.org/10.1109/ICASSP49660.2025.10890057) ![](https://img.shields.io/badge/date-2025.01-red)
 
 
 ##### 📰 Document Retrieval and Layout Understanding
