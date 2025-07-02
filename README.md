@@ -520,25 +520,25 @@ It represents the minimum value between precision (+P) and sensitivity (Se), pro
 
 #### ✅ Relevance and Accuracy
 - **Accuracy**:  
-  - [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text](https://arxiv.org/abs/2210.02928)  
-  - [How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?](https://aclanthology.org/2024.emnlp-main.305/)   
-  - [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131) 
-  - [Advanced Embedding Techniques in Multimodal Retrieval Augmented Generation: A Comprehensive Study on Cross Modal AI Applications](https://drpress.org/ojs/index.php/jceim/article/view/24094)  
-  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311)
-  - [MRAG-BENCH: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models](https://arxiv.org/abs/2410.08182)  
-  - [Enhancing Textbook Question Answering Task with Large Language Models and Retrieval Augmented Generation](https://arxiv.org/abs/2402.05128)  
-  - [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-Augmented Generation via Knowledge-Enhanced Reranking and Noise-Injected Training (RagVL)](https://arxiv.org/abs/2407.21439)     
-  - [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150)  
-  - [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://api.semanticscholar.org/CorpusID:274192536)
-  - [Iterative Retrieval Augmentation for Multi-Modal Knowledge Integration and Generation](http://dx.doi.org/10.36227/techrxiv.172840252.24352951/v1)   
-  - [Retrieval Meets Reasoning: Even High-School Textbook Knowledge Benefits Multimodal Reasoning](https://arxiv.org/abs/2405.20834) 
+  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311) ![](https://img.shields.io/badge/date-2025.03-red)  
+  - [MRAG-BENCH: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models](https://arxiv.org/abs/2410.08182) ![](https://img.shields.io/badge/date-2025.03-red)  
+  - [Enhancing Textbook Question Answering Task with Large Language Models and Retrieval Augmented Generation](https://arxiv.org/abs/2402.05128) ![](https://img.shields.io/badge/date-2025.01-red)  
+  - [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://api.semanticscholar.org/CorpusID:274192536) ![](https://img.shields.io/badge/date-2024.11-red)  
+  - [How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?](https://aclanthology.org/2024.emnlp-main.305/) ![](https://img.shields.io/badge/date-2024.11-red)  
+  - [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://arxiv.org/abs/2407.05131) ![](https://img.shields.io/badge/date-2024.10-red)  
+  - [Iterative Retrieval Augmentation for Multi-Modal Knowledge Integration and Generation](http://dx.doi.org/10.36227/techrxiv.172840252.24352951/v1) ![](https://img.shields.io/badge/date-2024.10-red)  
+  - [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-Augmented Generation via Knowledge-Enhanced Reranking and Noise-Injected Training (RagVL)](https://arxiv.org/abs/2407.21439) ![](https://img.shields.io/badge/date-2024.09-red)  
+  - [Advanced Embedding Techniques in Multimodal Retrieval Augmented Generation: A Comprehensive Study on Cross Modal AI Applications](https://drpress.org/ojs/index.php/jceim/article/view/24094) ![](https://img.shields.io/badge/date-2024.07-red) 
+  - [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150) ![](https://img.shields.io/badge/date-2024.06-red)  
+  - [Retrieval Meets Reasoning: Even High-School Textbook Knowledge Benefits Multimodal Reasoning](https://arxiv.org/abs/2405.20834) ![](https://img.shields.io/badge/date-2024.05-red)  
+  - [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text](https://arxiv.org/abs/2210.02928) ![](https://img.shields.io/badge/date-2022.10-red)  
 
 #### 🖼️ Image-related Metrics
-- **Fréchet Inception Distance (FID), CLIP Score, Kernel Inception Distance (KID), and Inception Score (IS)**:  
-  - [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html)
-  - [UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation](https://aclanthology.org/2024.emnlp-main.89/)
-  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311)
-  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951)
+- **Fréchet Inception Distance (FID), CLIP Score, Kernel Inception Distance (KID), and Inception Score (IS)**:
+  - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311) ![](https://img.shields.io/badge/date-2025.03-red)  
+  - [UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation](https://aclanthology.org/2024.emnlp-main.89/) ![](https://img.shields.io/badge/date-2024.11-red)
+  - [C3Net: Compound Conditioned ControlNet for Multimodal Content Generation](https://arxiv.org/abs/2311.17951) ![](https://img.shields.io/badge/date-2023.11-red) 
+  - [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html) ![](https://img.shields.io/badge/date-2023.06-red) 
 
 - **Consensus-Based Image Description Evaluation (CIDEr)**:
   - [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html)  
