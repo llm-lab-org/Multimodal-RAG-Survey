@@ -429,6 +429,12 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://arxiv.org/abs/2412.14457) ![](https://img.shields.io/badge/date-2024.12-red) 
 - [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75.pdf) ![](https://img.shields.io/badge/date-2024.11-red)
 
+
+#### 📂 Agentic Generation and Interaction 
+- [AppAgent v2: Advanced Agent for Flexible Mobile Interactions](https://arxiv.org/abs/2408.11824) ![](https://img.shields.io/badge/date-2024.10-red)
+- [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://arxiv.org/abs/2412.14457) ![](https://img.shields.io/badge/date-2024.12-red) 
+- [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75.pdf) ![](https://img.shields.io/badge/date-2024.11-red)
+
 ### 🔧 Training Strategies and Loss Function
 - [Improving Medical Multi-modal Contrastive Learning with Expert Annotations](https://doi.org/10.1007/978-3-031-72661-3_27) ![](https://img.shields.io/badge/date-2024.11-red)
 - [EchoSight: Advancing Visual-Language Models with Wiki Knowledge](https://aclanthology.org/2024.findings-emnlp.83/) ![](https://img.shields.io/badge/date-2024.11-red)
