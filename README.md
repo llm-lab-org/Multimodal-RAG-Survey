@@ -436,6 +436,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75.pdf) ![](https://img.shields.io/badge/date-2024.11-red)
 
 ### 🔧 Training Strategies and Loss Function
+- [FORTIFY: Generative Model Fine-tuning with ORPO for ReTrieval Expansion of InFormal NoisY Text](https://aclanthology.org/2025.magmar-1.13.pdf) ![](https://img.shields.io/badge/date-2025.07-red)
 - [Improving Medical Multi-modal Contrastive Learning with Expert Annotations](https://doi.org/10.1007/978-3-031-72661-3_27) ![](https://img.shields.io/badge/date-2024.11-red)
 - [EchoSight: Advancing Visual-Language Models with Wiki Knowledge](https://aclanthology.org/2024.findings-emnlp.83/) ![](https://img.shields.io/badge/date-2024.11-red)
 - [UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models](https://ieeexplore.ieee.org/document/10535103) ![](https://img.shields.io/badge/date-2024.05-red)  
