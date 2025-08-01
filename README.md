@@ -277,6 +277,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [OmAgent: A Multi-modal Agent Framework for Complex Video Understanding with Task Divide-and-Conquer](https://aclanthology.org/2024.emnlp-main.559/) ![](https://img.shields.io/badge/date-2024.11-red)
 - [Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval](https://dl.acm.org/doi/10.1145/3664647.3680731) ![](https://img.shields.io/badge/date-2024.10-red)
 - [iRAG: Advancing RAG for Videos with an Incremental Approach](https://dl.acm.org/doi/10.1145/3627673.3680088) ![](https://img.shields.io/badge/date-2024.10-red)
+- [InternVideo2: Scaling Foundation Models for Multimodal Video Understanding](https://arxiv.org/pdf/2403.15377) ![](https://img.shields.io/badge/date-2024.08-red)
 - [CTCH: Contrastive Transformer Cross-Modal Hashing for Video-Text Retrieval](https://www.ijcai.org/proceedings/2024/136) ![](https://img.shields.io/badge/date-2024.08-red)
 - [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610) ![](https://img.shields.io/badge/date-2024.04-red)
 - [Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval](https://arxiv.org/abs/2403.17998) ![](https://img.shields.io/badge/date-2024.03-red)
@@ -296,6 +297,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 
 ##### 📰 Document Retrieval and Layout Understanding
+- [One Pic is All it Takes: Poisoning Visual Document Retrieval Augmented Generation with a Single Image](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/338537349/2504.02132v2.pdf) ![](https://img.shields.io/badge/date-2025.04-red)
 - [SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding](https://arxiv.org/abs/2411.01106) ![](https://img.shields.io/badge/date-2025.03-red)
 - [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/abs/2407.01449) ![](https://img.shields.io/badge/date-2025.02-red)
 - [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2412.10704) ![](https://img.shields.io/badge/date-2025.02-red)
