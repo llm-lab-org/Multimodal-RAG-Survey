@@ -55,7 +55,7 @@ This repository is designed to collect and categorize papers related to Multimod
       - [📂 Source Attribution and Evidence Transparency](#-Source-Attribution-and-Evidence-Transparency)
     - [🔧 Training Strategies and Loss Function](#-Training-Strategies-and-Loss-Function)     
     - [🛡️ Robustness and Noise Management](#-Robustness-and-Noise-Management)
-    - [🛠 Taks Addressed by Multimodal RAGs](#-Taks-Addressed-by-Multimodal-RAGs)
+    - [🛠 Tasks Addressed by Multimodal RAGs](#-Taks-Addressed-by-Multimodal-RAGs)
     - [📏 Evaluation Metrics](#-Evaluation-Metrics)           
   - [🔗 Citations](#-Citations)
   - [📧 Contact](#-Contact)
@@ -453,6 +453,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 
 ### 🛡️ Robustness and Noise Management
+- [MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG](https://arxiv.org/pdf/2503.13563) ![](https://img.shields.io/badge/date-2025.03-red)
 - [AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles](https://arxiv.org/abs/2412.16701) ![](https://img.shields.io/badge/date-2024.12-red)
 - [Quantifying the Gaps Between Translation and Native Perception in Training for Multimodal, Multilingual Retrieval](https://aclanthology.org/2024.emnlp-main.335/) ![](https://img.shields.io/badge/date-2024.11-red)
 - [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2410.14154) ![](https://img.shields.io/badge/date-2024.10-red)
@@ -472,7 +473,8 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150) ![](https://img.shields.io/badge/date-2024.06-red)  
 - [UniRaG: Unification, Retrieval, and Generation for Multimodal Question Answering With Pre-Trained Language Models](https://ieeexplore.ieee.org/abstract/document/10535103/) ![](https://img.shields.io/badge/date-2024.05-red)  
 - [A comprehensive survey of hallucination mitigation techniques in large language models](https://www.amanchadha.com/research/2401.01313.pdf) ![](https://img.shields.io/badge/date-2024.01-red)  
-- [Ramm: Retrieval-augmented biomedical visual question answering with multi-modal pre-training](https://dl.acm.org/doi/abs/10.1145/3581783.3611830?casa_token=MWu5Fgy31X8AAAAA:C0Fip7NZEfRSiSnzpdf6z9rLnL-kyGkjnN0OdghmCfq7rY0OSPoUGER5jw8_82vFKYE6KArQApEUfA) ![](https://img.shields.io/badge/date-2023.10-red)  
+- [Ramm: Retrieval-augmented biomedical visual question answering with multi-modal pre-training](https://dl.acm.org/doi/abs/10.1145/3581783.3611830?casa_token=MWu5Fgy31X8AAAAA:C0Fip7NZEfRSiSnzpdf6z9rLnL-kyGkjnN0OdghmCfq7rY0OSPoUGER5jw8_82vFKYE6KArQApEUfA) ![](https://img.shields.io/badge/date-2023.10-red)
+- [Multi-CLIP: Contrastive Vision-Language Pre-training for Question Answering tasks in 3D Scenes](https://arxiv.org/pdf/2306.02329) ![](https://img.shields.io/badge/date-2023.06-red)  
 - [Retrieval-augmented multimodal language modeling](https://arxiv.org/abs/2211.12561) ![](https://img.shields.io/badge/date-2023.06-red)  
 - [REVEAL: Retrieval-Augmented Visual-Language Pre-Training With Multi-Source Multimodal Knowledge Memory](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_REVEAL_Retrieval-Augmented_Visual-Language_Pre-Training_With_Multi-Source_Multimodal_Knowledge_Memory_CVPR_2023_paper.html) ![](https://img.shields.io/badge/date-2023.04-red)  
 - [Re-imagen: Retrieval-augmented text-to-image generator](https://arxiv.org/abs/2209.14491) ![](https://img.shields.io/badge/date-2022.11-red)  
