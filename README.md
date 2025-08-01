@@ -341,13 +341,13 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 ### 🛠 Fusion Mechanisms
 #### 🎰 Score Fusion and Alignment
-
 - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311) ![](https://img.shields.io/badge/date-2025.03-red)
 - [VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents](https://arxiv.org/abs/2410.10594) ![](https://img.shields.io/badge/date-2025.03-red)
 - [Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering](https://arxiv.org/abs/2412.20927) ![](https://img.shields.io/badge/date-2024.12-red)
 - [MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval](https://arxiv.org/abs/2412.14475) ![](https://img.shields.io/badge/date-2024.12-red)
 - [Large Language Models Know What is Key Visual Entity: An LLM-assisted Multimodal Retrieval for VQA](https://aclanthology.org/2024.emnlp-main.613/) ![](https://img.shields.io/badge/date-2024.11-red)
 - [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://aclanthology.org/2024.emnlp-demo.33/) ![](https://img.shields.io/badge/date-2024.11-red)
+- [R2AG: Incorporating Retrieval Information into Retrieval Augmented Generation](https://aclanthology.org/2024.findings-emnlp.678.pdf) ![](https://img.shields.io/badge/date-2024.10-red)
 - [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](https://arxiv.org/abs/2410.21943) ![](https://img.shields.io/badge/date-2024.10-red)
 - [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2410.14154) ![](https://img.shields.io/badge/date-2024.10-red)
 - [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828) ![](https://img.shields.io/badge/date-2024.05-red)
