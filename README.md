@@ -268,6 +268,8 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2302.03084) ![](https://img.shields.io/badge/date-2023.05-red)
 
 ##### 🎥 Video-Centric
+- [Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval](https://arxiv.org/pdf/2506.10202) ![](https://img.shields.io/badge/date-2025.06-red)
+- [MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed](https://www.arxiv.org/pdf/2506.09409) ![](https://img.shields.io/badge/date-2025.06-red)
 - [VideoRAG: Retrieval-Augmented Generation over Video Corpus](https://arxiv.org/abs/2501.05874) ![](https://img.shields.io/badge/date-2025.05-red)
 - [VideoRAG: Retrieval-Augmented Generation with Extreme Long-Context Videos](https://arxiv.org/abs/2502.01549) ![](https://img.shields.io/badge/date-2025.02-red)
 - [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093) ![](https://img.shields.io/badge/date-2024.12-red)
@@ -279,7 +281,6 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [Do You Remember? Dense Video Captioning with Cross-Modal Memory Retrieval](https://arxiv.org/abs/2404.07610) ![](https://img.shields.io/badge/date-2024.04-red)
 - [Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval](https://arxiv.org/abs/2403.17998) ![](https://img.shields.io/badge/date-2024.03-red)
 - [MV-Adapter: Multimodal Video Transfer Learning for Video Text Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Jin_MV-Adapter_Multimodal_Video_Transfer_Learning_for_Video_Text_Retrieval_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/date-2023.01-red)
-
 
 ##### 🎶 Audio-Centric
 - [CA-CLAP: Retrieval Augmented Generation in Prompt-based Text-to-Speech Synthesis with Context-Aware Contrastive Language-Audio Pretraining](https://arxiv.org/abs/2406.03714) ![](https://img.shields.io/badge/date-2024.06-red)
@@ -407,12 +408,16 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html) ![](https://img.shields.io/badge/date-2023.06-red)
 
 #### 👨‍⚖️ Reasoning 
+- [Progressive Multimodal Reasoning via Active Retrieval](https://aclanthology.org/2025.acl-long.180.pdf) ![](https://img.shields.io/badge/date-2025.07-red)
+- [R2-MultiOmnia: Leading Multilingual Multimodal Reasoning via Self-Training](https://aclanthology.org/2025.acl-long.402/) ![](https://img.shields.io/badge/date-2025.07-red)
+- [MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification](https://aclanthology.org/2025.acl-long.689.pdf) ![](https://img.shields.io/badge/date-2025.02-red)
 - [VisDoM: Multi-Document QA with Visually Rich Elements Using Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2412.10704) ![](https://img.shields.io/badge/date-2025.02-red)
 - [RAGAR, Your Falsehood Radar: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models](https://aclanthology.org/2024.fever-1.29/) ![](https://img.shields.io/badge/date-2024.11-red)
 - [Self-adaptive Multimodal Retrieval-Augmented Generation](https://paperswithcode.com/paper/self-adaptive-multimodal-retrieval-augmented) ![](https://img.shields.io/badge/date-2024.10-red)
 - [LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval](https://dl.acm.org/doi/10.1145/3626772.3657740) ![](https://img.shields.io/badge/date-2024.07-red)
 
 #### 🤺 Instruction Tuning 
+- [MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale](https://aclanthology.org/2025.acl-long.680.pdf) ![](https://img.shields.io/badge/date-2025.06-red)
 - [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085) ![](https://img.shields.io/badge/date-2025.03-red)
 - [Retrieval-Augmented Dynamic Prompt Tuning for Incomplete Multimodal Learning](https://arxiv.org/abs/2501.01120v1) ![](https://img.shields.io/badge/date-2025.01-red)
 - [MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval](https://arxiv.org/abs/2412.14475) ![](https://img.shields.io/badge/date-2024.12-red)
