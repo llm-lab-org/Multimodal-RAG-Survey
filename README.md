@@ -230,6 +230,8 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 
 ##### 💫 Multi-Modal Encoders
+- [ReT-2: Recurrence Meets Transformers for Universal Multimodal Retrieval](https://arxiv.org/abs/2509.08897) ![](https://img.shields.io/badge/date-2025.09-red)
+- [Mi-RAG: Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/) ![](https://img.shields.io/badge/date-2024.11-red)
 - [GME: Improving Universal Multimodal Retrieval by Multimodal LLMs](https://arxiv.org/abs/2412.16855) ![](https://img.shields.io/badge/date-2025.04-red)
 - [Mi-RAG: Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/) ![](https://img.shields.io/badge/date-2024.11-red)
 - [VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval](https://aclanthology.org/2024.acl-long.175/) ![](https://img.shields.io/badge/date-2024.08-red)
@@ -373,6 +375,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text](https://arxiv.org/abs/2210.02928) ![](https://img.shields.io/badge/date-2022.10-red)
 
 #### 🧩 Unified Frameworks
+- [ReT-2: Recurrence Meets Transformers for Universal Multimodal Retrieval](https://arxiv.org/abs/2509.08897) ![](https://img.shields.io/badge/date-2025.09-red)
 - [Hybrid RAG-Empowered Multi-Modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-Based Contract Approach](https://arxiv.org/abs/2407.00978) ![](https://img.shields.io/badge/date-2024.12-red)
 - [M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding](https://arxiv.org/pdf/2411.04952) ![](https://img.shields.io/badge/date-2024.11-red)
 - [Self-adaptive Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2410.11321v1) ![](https://img.shields.io/badge/date-2024.10-red)
@@ -455,6 +458,8 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 
 ### 🛡️ Robustness and Noise Management
+- [GenderBias-VL: Benchmarking Gender Bias in Vision Language Models via Counterfactual Probing]([https://arxiv.org/pdf/2503.13563](https://link.springer.com/article/10.1007/s11263-025-02556-7) ![](https://img.shields.io/badge/date-2025.09-red)
+- [AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles]
 - [MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG](https://arxiv.org/pdf/2503.13563) ![](https://img.shields.io/badge/date-2025.03-red)
 - [AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles](https://arxiv.org/abs/2412.16701) ![](https://img.shields.io/badge/date-2024.12-red)
 - [Quantifying the Gaps Between Translation and Native Perception in Training for Multimodal, Multilingual Retrieval](https://aclanthology.org/2024.emnlp-main.335/) ![](https://img.shields.io/badge/date-2024.11-red)
@@ -652,6 +657,8 @@ It represents the minimum value between precision (+P) and sensitivity (Se), pro
 - **Geodesic Distance**:
   - [Img2Loc: Revisiting Image Geolocalization Using Multi-Modality Foundation Models and Image-Based Retrieval-Augmented Generation](https://dl.acm.org/doi/10.1145/3626772.3657673) ![](https://img.shields.io/badge/date-2024.07-red) 
 
+- **GenderBias-VL benchmark**:
+  - [GenderBias-VL: Benchmarking Gender Bias in Vision Language Models via Counterfactual Probing]([https://arxiv.org/pdf/2503.13563](https://link.springer.com/article/10.1007/s11263-025-02556-7) ![](https://img.shields.io/badge/date-2025.09-red)
 
 ---
 
