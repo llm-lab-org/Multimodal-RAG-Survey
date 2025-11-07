@@ -289,19 +289,22 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [MV-Adapter: Multimodal Video Transfer Learning for Video Text Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Jin_MV-Adapter_Multimodal_Video_Transfer_Learning_for_Video_Text_Retrieval_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/date-2023.01-red)
 
 ##### 🎶 Audio-Centric
-- [CA-CLAP: Retrieval Augmented Generation in Prompt-based Text-to-Speech Synthesis with Context-Aware Contrastive Language-Audio Pretraining](https://arxiv.org/abs/2406.03714) ![](https://img.shields.io/badge/date-2024.06-red)
-- [RECAP: Retrieval-Augmented Audio Captioning](https://arxiv.org/abs/2309.09836) ![](https://img.shields.io/badge/date-2024.06-red)
-- [SpeechRAG: Speech Retrieval-Augmented Generation without Automatic Speech Recognition](https://arxiv.org/abs/2411.13093) ![](https://img.shields.io/badge/date-2025.01-red)
+- [RECAST: Retrieval-Augmented Contextual ASR via Decoder-State Keyword Spotting](https://aclanthology.org/2025.findings-emnlp.203/) ![](https://img.shields.io/badge/date-2025.10-red)
 - [WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models](https://arxiv.org/abs/2502.14727) ![](https://img.shields.io/badge/date-2025.02-red)
+- [SpeechRAG: Speech Retrieval-Augmented Generation without Automatic Speech Recognition](https://arxiv.org/abs/2411.13093) ![](https://img.shields.io/badge/date-2025.01-red)
 - [SEAL: Speech Embedding Alignment Learning for Speech Large Language Model with Retrieval-Augmented Generation](https://arxiv.org/abs/2502.02603) ![](https://img.shields.io/badge/date-2025.01-red)
+- [Contextual asr with retrieval augmented large language model.](https://doi.org/10.1109/ICASSP49660.2025.10890057) ![](https://img.shields.io/badge/date-2025.01-red)
+- [RECAP: Retrieval-Augmented Audio Captioning](https://arxiv.org/abs/2309.09836) ![](https://img.shields.io/badge/date-2024.06-red)
 - [Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with Retrieval-Augmented Generation](https://arxiv.org/abs/2411.05141) ![](https://img.shields.io/badge/date-2025.01-red)
 - [DRCap: Decoding CLAP Latents with Retrieval-Augmented Generation for Zero-shot Audio Captioning](https://arxiv.org/abs/2410.09472) ![](https://img.shields.io/badge/date-2025.01-red)
 - [P2PCAP: Enhancing Retrieval-Augmented Audio Captioning with Generation-Assisted Multimodal Querying and Progressive Learning](https://arxiv.org/abs/2410.10913) ![](https://img.shields.io/badge/date-2025.01-red)
 - [LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented Generation](https://arxiv.org/abs/2409.08597) ![](https://img.shields.io/badge/date-2024.09-red)
-- [Contextual asr with retrieval augmented large language model.](https://doi.org/10.1109/ICASSP49660.2025.10890057) ![](https://img.shields.io/badge/date-2025.01-red)
+- [CA-CLAP: Retrieval Augmented Generation in Prompt-based Text-to-Speech Synthesis with Context-Aware Contrastive Language-Audio Pretraining](https://arxiv.org/abs/2406.03714) ![](https://img.shields.io/badge/date-2024.06-red)
 
 
 ##### 📰 Document Retrieval and Layout Understanding
+- [LILaC: Late Interacting in Layered Component Graph for Open-domain Multimodal Multihop Retrieval](https://aclanthology.org/2025.emnlp-main.1037/) ![](https://img.shields.io/badge/date-2025.10-red) 
+- [DREAM: Integrating Hierarchical Multimodal Retrieval with Multi-page Multimodal Language Model for Documents VQA](https://dl.acm.org/doi/abs/10.1145/3746027.3755357) ![](https://img.shields.io/badge/date-2025.10-red)
 - [One Pic is All it Takes: Poisoning Visual Document Retrieval Augmented Generation with a Single Image](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/338537349/2504.02132v2.pdf) ![](https://img.shields.io/badge/date-2025.04-red)
 - [SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding](https://arxiv.org/abs/2411.01106) ![](https://img.shields.io/badge/date-2025.03-red)
 - [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/abs/2407.01449) ![](https://img.shields.io/badge/date-2025.02-red)
