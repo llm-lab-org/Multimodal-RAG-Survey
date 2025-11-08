@@ -196,6 +196,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 ## 📄 Papers
 ### 📚 RAG-related Surveys
 - [RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543) ![](https://img.shields.io/badge/date-2025.06-red)
+- [Retrieval-Augmented Generation: A Comprehensive Survey of Architectures, Enhancements, and Robustness Frontiers](https://arxiv.org/abs/2506.00054) ![](https://img.shields.io/badge/date-2025.05-red)
 - [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) ![](https://img.shields.io/badge/date-2025.03-red)
 - [Retrieval-Augmented Generation for Natural Language Processing: A Survey](https://arxiv.org/abs/2407.13193) ![](https://img.shields.io/badge/date-2025.03-red)
 - [Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG](https://arxiv.org/abs/2501.09136) ![](https://img.shields.io/badge/date-2025.02-red)
