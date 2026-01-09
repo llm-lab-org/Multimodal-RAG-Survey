@@ -5,6 +5,7 @@
 This repository is designed to collect and categorize papers related to Multimodal Retrieval-Augmented Generation (RAG) according to our survey paper: [Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2502.08826). Given the rapid growth in this field, we will continuously update both the paper and this repository to serve as a resource for researchers working on future projects.
 
 ## 📢 News
+- **January 9, 2026**: Happy New Year! We’ve added some new papers in the field.
 - **September 19, 2025**: We've just added new papers to our repository.
 - **August 20, 2025**: The poster and slide for this survey paper have been added to the repository for readers.
 - **August 1, 2025**: We've just added new papers to our repository; a major update!
