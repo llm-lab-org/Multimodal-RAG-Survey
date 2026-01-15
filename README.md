@@ -198,6 +198,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 ---
 ## 📄 Papers
 ### 📚 RAG-related Surveys
+- [Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](https://arxiv.org/abs/2510.15253) ![](https://img.shields.io/badge/date-2026.01-red)
 - [A Comprehensive Survey on Multimodal RAG: All Combinations of Modalities as Input and Output](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176341513.38473003) ![](https://img.shields.io/badge/date-2025.11-red)
 - [RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543) ![](https://img.shields.io/badge/date-2025.06-red)
 - [Retrieval-Augmented Generation: A Comprehensive Survey of Architectures, Enhancements, and Robustness Frontiers](https://arxiv.org/abs/2506.00054) ![](https://img.shields.io/badge/date-2025.05-red)
@@ -483,9 +484,11 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [RA-CM3: Retrieval-Augmented Multimodal Language Modeling](https://arxiv.org/abs/2211.12561) ![](https://img.shields.io/badge/date-2023.01-red)
 
 ### 🛠 Tasks Addressed by Multimodal RAGs
+
 - [An Intelligent Conversational Agent Using Self-Reflective Retrieval-Augmented Generation for Enhanced Large Language Model Support in National Accounts Learning](https://proceedings.stis.ac.id/icdsos/article/view/575) ![](https://img.shields.io/badge/date-2025.12-red)  
 - [Zero-Shot Anomaly Detection in Laser Powder Bed Fusion Using Multimodal Retrieval-Augmented Generation and Large Language Models](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/148/7/072001/1229042/Zero-Shot-Anomaly-Detection-in-Laser-Powder-Bed?redirectedFrom=fulltext) ![](https://img.shields.io/badge/date-2025.12-red)
-- [Specialty-Specific Citation-Enabled AI Clinical Decision Support System for Craniofacial Surgery: Development of CASPE](https://journals.lww.com/jcraniofacialsurgery/abstract/9900/specialty_specific_citation_enabled_ai_clinical.3541.aspx) ![](https://img.shields.io/badge/date-2025.12-red)  
+- [Specialty-Specific Citation-Enabled AI Clinical Decision Support System for Craniofacial Surgery: Development of CASPE](https://journals.lww.com/jcraniofacialsurgery/abstract/9900/specialty_specific_citation_enabled_ai_clinical.3541.aspx) ![](https://img.shields.io/badge/date-2025.12-red)
+- [Multimodal RAG for Financial Documents: BART-Based Financial Named Entity Recognition and Attention-based Table Parsing for Financial QA Enhancement](https://www.researchsquare.com/article/rs-7903640/v1) ![](https://img.shields.io/badge/date-2025.11-red)  
 - [AskHPC: A ChatBot for High Performance Computing User Support](https://dl.acm.org/doi/full/10.1145/3731599.3767433) ![](https://img.shields.io/badge/date-2025.11-red)  
 - [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093) ![](https://img.shields.io/badge/date-2024.12-red)  
 - [RA-BLIP: Multimodal Adaptive Retrieval-Augmented Bootstrapping Language-Image Pre-training](https://arxiv.org/abs/2410.14154) ![](https://img.shields.io/badge/date-2024.10-red)  
@@ -505,6 +508,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 
 #### 🩺 Healthcare and Medicine
+- [Towards Multimodal Retrieval-Augmented Generation for Medical Visual Question Answering](https://www.researchsquare.com/article/rs-7752202/v1) ![](https://img.shields.io/badge/date-2025.10-red)  
 - [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085) ![](https://img.shields.io/badge/date-2025.03-red)  
 - [Fact-aware multimodal retrieval augmentation for accurate medical radiology report generation](https://arxiv.org/abs/2407.15268) ![](https://img.shields.io/badge/date-2025.02-red)  
 - [Hybrid RAG-Empowered Multi-Modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-Based Contract Approach](https://ieeexplore.ieee.org/abstract/document/10812735?casa_token=LNKXIPFMjI0AAAAA:IcPhMEQM2oJXUbl5beryVYfNp64gFZIVD6kl4bmZHq0rzX1dzDb03xyVR-HbfaxP-IM5aJlshQ) ![](https://img.shields.io/badge/date-2024.12-red)  
@@ -573,7 +577,8 @@ It represents the minimum value between precision (+P) and sensitivity (Se), pro
 
 
 #### ✅ Relevance and Accuracy
-- **Accuracy**:  
+- **Accuracy**:
+  - [Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation](https://arxiv.org/pdf/2510.24870) ![](https://img.shields.io/badge/date-2025.10-red)  
   - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311) ![](https://img.shields.io/badge/date-2025.03-red)  
   - [MRAG-BENCH: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models](https://arxiv.org/abs/2410.08182) ![](https://img.shields.io/badge/date-2025.03-red)  
   - [Enhancing Textbook Question Answering Task with Large Language Models and Retrieval Augmented Generation](https://arxiv.org/abs/2402.05128) ![](https://img.shields.io/badge/date-2025.01-red)  
