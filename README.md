@@ -482,6 +482,8 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [RAGTrans: Retrieval-Augmented Hypergraph for Multimodal Social Media Popularity Prediction](https://doi.org/10.1145/3637528.3672041) ![](https://img.shields.io/badge/date-2024.08-red)
 - [MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training (RagVL)](https://arxiv.org/abs/2407.21439) ![](https://img.shields.io/badge/date-2024.07-red)  
 - [RA-CM3: Retrieval-Augmented Multimodal Language Modeling](https://arxiv.org/abs/2211.12561) ![](https://img.shields.io/badge/date-2023.01-red)
+- [WFGY Problem Map: Semantic Firewall for RAG Failure Modes](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) ![date](https://img.shields.io/badge/date-2025.08-red)
+
 
 ### 🛠 Tasks Addressed by Multimodal RAGs
 
