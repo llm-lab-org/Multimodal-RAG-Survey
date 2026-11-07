@@ -238,6 +238,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 ##### 💫 Multi-Modal Encoders
 - [ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](https://arxiv.org/pdf/2511.22715) ![](https://img.shields.io/badge/date-2025.11-red)
+- [FreeRet: MLLMs as Training-Free Retrievers](https://arxiv.org/abs/2509.24621) ![](https://img.shields.io/badge/date-2025.09-red)
 - [ReT-2: Recurrence Meets Transformers for Universal Multimodal Retrieval](https://arxiv.org/abs/2509.08897) ![](https://img.shields.io/badge/date-2025.09-red)
 - [Mi-RAG: Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/) ![](https://img.shields.io/badge/date-2024.11-red)
 - [GME: Improving Universal Multimodal Retrieval by Multimodal LLMs](https://arxiv.org/abs/2412.16855) ![](https://img.shields.io/badge/date-2025.04-red)
