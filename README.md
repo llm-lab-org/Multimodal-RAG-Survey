@@ -5,6 +5,7 @@
 This repository is designed to collect and categorize papers related to Multimodal Retrieval-Augmented Generation (RAG) according to our survey paper: [Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2502.08826). Given the rapid growth in this field, we will continuously update both the paper and this repository to serve as a resource for researchers working on future projects.
 
 ## 📢 News
+- **November 18, 2026**: Major update! We have added 100+ new papers, benchmarks, and datasets published between October 2025 and November 2026.
 - **January 9, 2026**: Happy New Year! We’ve added some new papers in the field.
 - **September 19, 2025**: We've just added new papers to our repository.
 - **August 20, 2025**: The poster and slide for this survey paper have been added to the repository for readers.
@@ -87,6 +88,8 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 | **Name**         | **Statistics and Description**                                                                 | **Modalities** | **Link**                                                                                             |
 |------------------|-------------------------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------------------|
+| CRAG-MM-Diagnostics | Diagnostic knowledge-intensive VQA benchmark with stage-wise annotations isolating visual grounding, object identification, and knowledge retrieval/reasoning | Image, Text | [CRAG-MM-Diagnostics](https://arxiv.org/abs/2607.21155) |
+| CRAG-MM          | 6.5K image–question–answer triplets and 2K visual multi-turn conversations across 13 domains (6.2K egocentric images), with image-KG and web retrieval APIs | Image, Text | [CRAG-MM](https://arxiv.org/abs/2510.26160) |
 | MAVIS      | 157K visual QA instances, where each answer is annotated with fact-level citations referring to multimodal documents                                | Image, Text    | [MAVIS](https://arxiv.org/pdf/2511.12142)                                 |
 | M4-RAG      | 80,000 culturally diverse image-question pairs for evaluating retrieval-augmented VQA across languages and modalities                                 | Image, Text    | [M4-RAG](https://arxiv.org/abs/2512.05959)                                 |
 | LAION-400M      | 200M image–text pairs; used for pre-training multimodal models.                                 | Image, Text    | [LAION-400M](https://laion.ai/projects/laion-400-mil-open-dataset/)                                 |
@@ -106,6 +109,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 | **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
 |------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
+| LongVidSearch    | 3,000 multi-hop questions over 447 long videos (avg. 26 min), each requiring exactly k evidence clips; evaluates agentic retrieval planning | Video, Text | [LongVidSearch](https://arxiv.org/abs/2603.14468) |
 | BDD-X           | 77 hours of driving videos with expert textual explanations; for explainable driving behavior.                  | Video, Text      | [BDD-X](https://github.com/JinkyuKimUCB/BDD-X-dataset)                                              |
 | YouCook2        | 2,000 cooking videos with aligned descriptions; focused on video–text tasks.                                   | Video, Text      | [YouCook2](https://youcook2.eecs.umich.edu/)                                                        |
 | ActivityNet     | 20,000 videos with multiple captions; used for video understanding and captioning.                              | Video, Text      | [ActivityNet](http://activity-net.org/)                                                             |
@@ -135,6 +139,8 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 | **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
 |------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
+| VeriSpeak        | 3,879 spoken claims (temporal, geographical, relational) with balanced true/false labels for retrieval-augmented speech fact verification | Audio, Text | [VeriSpeak](https://arxiv.org/abs/2609.30227) |
+| AudioRAG         | LLM-generated and manually curated audio QA pairs that require retrieving external information from the web | Audio, Text | [AudioRAG](https://arxiv.org/abs/2602.10656) |
 | LibriSpeech     | 1,000 hours of read English speech with corresponding text; ASR corpus based on audiobooks.                     | Audio, Text      | [LibriSpeech](https://www.openslr.org/12)                                                           |
 | SpeechBrown     | 55K paired speech-text samples; 15 categories covering diverse topics from religion to fiction.                 | Audio, Text      | [SpeechBrown](https://huggingface.co/datasets/llm-lab/SpeechBrown)                                   |
 | AudioCap        | 46K audio clips paired with human-written text captions.                                                       | Audio, Text      | [AudioCaps](https://audiocaps.github.io/)                                                           |
@@ -170,6 +176,15 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 | **Name**         | **Statistics and Description**                                                                                  | **Modalities**   | **Link**                                                                                             |
 |------------------|------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------------|
+| VisR-RAG-Fin     | Page-level QA over visually rich financial reports (layout preserved) for comparing text-only, multimodal, and hybrid RAG pipelines | Image, Text | [VisR-RAG-Fin](https://arxiv.org/abs/2610.24822) |
+| TopoGraphRAG-Bench | 2,024 questions over 201 long, visually rich documents under single-hop, bridge-chain, and multi-source evidence topologies | Image, Text | [TopoGraphRAG-Bench](https://arxiv.org/abs/2610.09360) |
+| MKG-RAG-Bench    | Retrieval-focused benchmark for multimodal knowledge-graph RAG, built from general-domain and medical multimodal KGs with aligned QA sets | Image, Text | [MKG-RAG-Bench](https://arxiv.org/abs/2606.26458) |
+| MERRIN           | Human-annotated multi-hop search queries requiring retrieval of noisy or conflicting web evidence across text, images, video, and audio | Text, Image, Video, Audio | [MERRIN](https://arxiv.org/abs/2604.13418) |
+| MC-Search        | 3,333 agentic MM-RAG examples (avg. 3.7 hops) annotated with sub-questions, retrieval modalities, supporting facts, and intermediate answers | Image, Text | [MC-Search](https://arxiv.org/abs/2603.00873) |
+| VDR-Bench        | 2,000 expert-reviewed, visual-search-centric VQA instances for evaluating multimodal deep-research systems | Image, Text | [VDR-Bench](https://arxiv.org/abs/2602.02185) |
+| ViDoRe V3        | ~26K document pages and 3,099 human-verified queries (in 6 languages) over 10 datasets, with retrieval-relevance, bounding-box, and answer annotations | Image, Text | [ViDoRe V3](https://arxiv.org/abs/2601.08620) |
+| UniDoc-Bench     | Document-centric MM-RAG QA built from real-world PDF pages, linking text, tables, and figures; factual, comparison, summarization, and reasoning queries | Image, Text | [UniDoc-Bench](https://arxiv.org/abs/2510.03663) |
+| RAG-IGBench      | Benchmark for RAG-based interleaved image–text answer generation in open-domain QA, built from recent social-platform content | Image, Text | [RAG-IGBench](https://arxiv.org/abs/2512.05119) |
 | VQA              | 400K QA pairs with images for visual question-answering tasks.                                                 | Image, Text      | [VQA](https://visualqa.org/)                                                                        |
 | PAQ              | 65M text-based QA pairs; a large-scale dataset for open-domain QA tasks.                                       | Text             | [PAQ](https://github.com/facebookresearch/PAQ)                                                      |
 | ELI5             | 270K complex questions augmented with web pages and images; designed for long-form QA tasks.                   | Text             | [ELI5](https://facebookresearch.github.io/ELI5/)                                                    |
@@ -198,7 +213,9 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 ---
 ## 📄 Papers
 ### 📚 RAG-related Surveys
+- [Unlocking Multimodal Document Intelligence: From Current Triumphs to Future Frontiers of Visual Document Retrieval](https://arxiv.org/abs/2602.19961) ![](https://img.shields.io/badge/date-2026.02-red)
 - [Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding](https://arxiv.org/abs/2510.15253) ![](https://img.shields.io/badge/date-2026.01-red)
+- [Roles of MLLMs in Visually Rich Document Retrieval for RAG: A Survey](https://arxiv.org/abs/2601.03262) ![](https://img.shields.io/badge/date-2025.12-red)
 - [A Comprehensive Survey on Multimodal RAG: All Combinations of Modalities as Input and Output](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176341513.38473003) ![](https://img.shields.io/badge/date-2025.11-red)
 - [RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing](https://arxiv.org/abs/2404.19543) ![](https://img.shields.io/badge/date-2025.06-red)
 - [Retrieval-Augmented Generation: A Comprehensive Survey of Architectures, Enhancements, and Robustness Frontiers](https://arxiv.org/abs/2506.00054) ![](https://img.shields.io/badge/date-2025.05-red)
@@ -220,6 +237,9 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 ### 👓 Retrieval Strategies Advances
 #### 🔍 Efficient-Search and Similarity Retrieval
 ##### ❓ Maximum Inner Product Search-MIPS
+- [Unbalanced Optimal Transport for Efficient Visual Document Retrieval](https://arxiv.org/abs/2610.23929) ![](https://img.shields.io/badge/date-2026.10-red)
+- [Visual RAG Toolkit: Scaling Multi-Vector Visual Retrieval with Training-Free Pooling and Multi-Stage Search](https://arxiv.org/abs/2602.12510) ![](https://img.shields.io/badge/date-2026.02-red)
+- [Hybrid-Vector Retrieval for Visually Rich Documents: Combining Single-Vector Efficiency and Multi-Vector Accuracy](https://arxiv.org/abs/2510.22215) ![](https://img.shields.io/badge/date-2025.10-red)
 - [Fact-Aware Multimodal Retrieval Augmentation for Accurate Medical Radiology Report Generation](https://arxiv.org/abs/2407.15268) ![](https://img.shields.io/badge/date-2025.02-red)
 - [RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval](https://arxiv.org/abs/2409.10516) ![](https://img.shields.io/badge/date-2024.12-red)
 - [ADQ: Adaptive Dataset Quantization](https://arxiv.org/abs/2412.16895) ![](https://img.shields.io/badge/date-2024.12-red)
@@ -237,7 +257,18 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 
 ##### 💫 Multi-Modal Encoders
+- [LaME: Learning to Think in Latent Space for Multimodal Embedding via Information Bottleneck](https://arxiv.org/abs/2606.13061) ![](https://img.shields.io/badge/date-2026.06-red)
+- [Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini](https://arxiv.org/abs/2605.27295) ![](https://img.shields.io/badge/date-2026.05-red)
+- [PLUME: Latent Reasoning Based Universal Multimodal Embedding](https://arxiv.org/abs/2604.02073) ![](https://img.shields.io/badge/date-2026.04-red)
+- [Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings](https://arxiv.org/abs/2602.13823) ![](https://img.shields.io/badge/date-2026.02-red)
+- [Magic-MM-Embedding: Towards Visual-Token-Efficient Universal Multimodal Embedding with MLLMs](https://arxiv.org/abs/2602.05275) ![](https://img.shields.io/badge/date-2026.02-red)
+- [Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking](https://arxiv.org/abs/2601.04720) ![](https://img.shields.io/badge/date-2026.01-red)
 - [ReAG: Reasoning-Augmented Generation for Knowledge-based Visual Question Answering](https://arxiv.org/pdf/2511.22715) ![](https://img.shields.io/badge/date-2025.11-red)
+- [ReMatch: Boosting Representation through Matching for Multimodal Retrieval](https://arxiv.org/abs/2511.19278) ![](https://img.shields.io/badge/date-2025.11-red)
+- [UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning](https://arxiv.org/abs/2510.13515) ![](https://img.shields.io/badge/date-2025.10-red)
+- [Scaling Language-Centric Omnimodal Representation Learning](https://arxiv.org/abs/2510.11693) ![](https://img.shields.io/badge/date-2025.10-red)
+- [Omni-Embed-Nemotron: A Unified Multimodal Retrieval Model for Text, Image, Audio, and Video](https://arxiv.org/abs/2510.03458) ![](https://img.shields.io/badge/date-2025.10-red)
+- [Towards Mixed-Modal Retrieval for Universal Retrieval-Augmented Generation](https://arxiv.org/abs/2510.17354) ![](https://img.shields.io/badge/date-2025.10-red)
 - [FreeRet: MLLMs as Training-Free Retrievers](https://arxiv.org/abs/2509.24621) ![](https://img.shields.io/badge/date-2025.09-red)
 - [ReT-2: Recurrence Meets Transformers for Universal Multimodal Retrieval](https://arxiv.org/abs/2509.08897) ![](https://img.shields.io/badge/date-2025.09-red)
 - [Mi-RAG: Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/) ![](https://img.shields.io/badge/date-2024.11-red)
@@ -255,6 +286,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 #### 🎨 Modality-Centric Retrieval
 ##### 📋 Text-Centric
+- [MIDR: Enrichment-Augmented Indexing for Multimodal Document Retrieval](https://arxiv.org/abs/2609.01316) ![](https://img.shields.io/badge/date-2026.09-red)
 - [M<sup>2</sup>RAG: Multi-modal Retrieval Augmented Multi-modal Generation: Datasets, Evaluation Metrics and Strong Baselines](https://arxiv.org/abs/2411.16365) ![](https://img.shields.io/badge/date-2025.05-red)
 - [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75/) ![](https://img.shields.io/badge/date-2024.11-red)
 - [CRAG: Corrective Retrieval Augmented Generation](https://openreview.net/forum?id=JnWJbrnaUE) ![](https://img.shields.io/badge/date-2024.09-red)
@@ -268,6 +300,9 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 
 ##### 📸 Vision-Centric
+- [Beyond Visual Similarity: Entity-Aligned Retrieval for Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2608.21450) ![](https://img.shields.io/badge/date-2026.08-red)
+- [R3G: A Reasoning-Retrieval-Reranking Framework for Vision-Centric Answer Generation](https://arxiv.org/abs/2602.00104) ![](https://img.shields.io/badge/date-2026.01-red)
+- [Breaking the Visual Shortcuts in Multimodal Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2511.22843) ![](https://img.shields.io/badge/date-2025.11-red)
 - [Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering](https://arxiv.org/abs/2412.20927) ![](https://img.shields.io/badge/date-2024.12-red)
 - [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://arxiv.org/abs/2412.14457) ![](https://img.shields.io/badge/date-2024.12-red)
 - [eCLIP: Improving Medical Multi-modal Contrastive Learning with Expert Annotations](https://link.springer.com/chapter/10.1007/978-3-031-72661-3_27) ![](https://img.shields.io/badge/date-2024.11-red)
@@ -280,6 +315,11 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval](https://arxiv.org/abs/2302.03084) ![](https://img.shields.io/badge/date-2023.05-red)
 
 ##### 🎥 Video-Centric
+- [EM<sup>2</sup>Mem: Event-Centric Multimodal Memory for Large Language Models](https://arxiv.org/abs/2609.00551) ![](https://img.shields.io/badge/date-2026.09-red)
+- [Beyond Visual Boundaries: Rethinking Scene Segmentation for Movie RAG](https://arxiv.org/abs/2608.28699) ![](https://img.shields.io/badge/date-2026.08-red)
+- [VideoStir: Understanding Long Videos via Spatio-Temporally Structured and Intent-Aware RAG](https://arxiv.org/abs/2604.05418) ![](https://img.shields.io/badge/date-2026.04-red)
+- [Hierarchical Long Video Understanding with Audiovisual Entity Cohesion and Agentic Search](https://arxiv.org/abs/2601.13719) ![](https://img.shields.io/badge/date-2026.01-red)
+- [Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding](https://arxiv.org/abs/2510.14032) ![](https://img.shields.io/badge/date-2025.10-red)
 - [Q2E: Query-to-Event Decomposition for Zero-Shot Multilingual Text-to-Video Retrieval](https://arxiv.org/pdf/2506.10202) ![](https://img.shields.io/badge/date-2025.06-red)
 - [MAGMaR Shared Task System Description: Video Retrieval with OmniEmbed](https://www.arxiv.org/pdf/2506.09409) ![](https://img.shields.io/badge/date-2025.06-red)
 - [VideoRAG: Retrieval-Augmented Generation over Video Corpus](https://arxiv.org/abs/2501.05874) ![](https://img.shields.io/badge/date-2025.05-red)
@@ -296,7 +336,11 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [MV-Adapter: Multimodal Video Transfer Learning for Video Text Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Jin_MV-Adapter_Multimodal_Video_Transfer_Learning_for_Video_Text_Retrieval_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/date-2023.01-red)
 
 ##### 🎶 Audio-Centric
+- [PlanRAG-Audio: Planning and Retrieval Augmented Generation for Long-form Audio Understanding](https://arxiv.org/abs/2605.20414) ![](https://img.shields.io/badge/date-2026.05-red)
+- [Event-Grounded Question Answering over Long Audio via Structured Retrieval](https://arxiv.org/abs/2602.14612) ![](https://img.shields.io/badge/date-2026.02-red)
+- [End-to-end Contrastive Language-Speech Pretraining Model For Long-form Spoken Question Answering](https://arxiv.org/abs/2511.09282) ![](https://img.shields.io/badge/date-2025.11-red)
 - [RECAST: Retrieval-Augmented Contextual ASR via Decoder-State Keyword Spotting](https://aclanthology.org/2025.findings-emnlp.203/) ![](https://img.shields.io/badge/date-2025.10-red)
+- [Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage](https://arxiv.org/abs/2510.02044) ![](https://img.shields.io/badge/date-2025.10-red)
 - [WavRAG: Audio-Integrated Retrieval Augmented Generation for Spoken Dialogue Models](https://arxiv.org/abs/2502.14727) ![](https://img.shields.io/badge/date-2025.02-red)
 - [SpeechRAG: Speech Retrieval-Augmented Generation without Automatic Speech Recognition](https://arxiv.org/abs/2411.13093) ![](https://img.shields.io/badge/date-2025.01-red)
 - [SEAL: Speech Embedding Alignment Learning for Speech Large Language Model with Retrieval-Augmented Generation](https://arxiv.org/abs/2502.02603) ![](https://img.shields.io/badge/date-2025.01-red)
@@ -310,8 +354,20 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 
 ##### 📰 Document Retrieval and Layout Understanding
+- [MM-BizRAG: Rethinking Multimodal Retrieval-Augmented Generation for General Purpose Enterprise Q&A](https://arxiv.org/abs/2606.04231) ![](https://img.shields.io/badge/date-2026.06-red)
+- [A Picture is Worth a Thousand Words? An Empirical Study of Aggregation Strategies for Visual Financial Document Retrieval](https://arxiv.org/abs/2605.14581) ![](https://img.shields.io/badge/date-2026.05-red)
+- [ReAlign: Optimizing the Visual Document Retriever with Reasoning-Guided Fine-Grained Alignment](https://arxiv.org/abs/2604.07419) ![](https://img.shields.io/badge/date-2026.04-red)
+- [MURE: Hierarchical Multi-Resolution Encoding via Vision-Language Models for Visual Document Retrieval](https://arxiv.org/abs/2603.13349) ![](https://img.shields.io/badge/date-2026.03-red)
+- [Beyond the Grid: Layout-Informed Multi-Vector Retrieval with Parsed Visual Document Representations](https://arxiv.org/abs/2603.01666) ![](https://img.shields.io/badge/date-2026.03-red)
+- [Nemotron ColEmbed V2: Top-Performing Late Interaction Embedding Models for Visual Document Retrieval](https://arxiv.org/abs/2602.03992) ![](https://img.shields.io/badge/date-2026.02-red)
+- [CausalEmbed: Auto-Regressive Multi-Vector Generation in Latent Space for Visual Document Embedding](https://arxiv.org/abs/2601.21262) ![](https://img.shields.io/badge/date-2026.01-red)
+- [Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark](https://arxiv.org/abs/2512.20174) ![](https://img.shields.io/badge/date-2025.12-red)
+- [HKRAG: Holistic Knowledge Retrieval-Augmented Generation Over Visually-Rich Documents](https://arxiv.org/abs/2511.20227) ![](https://img.shields.io/badge/date-2025.11-red)
 - [LILaC: Late Interacting in Layered Component Graph for Open-domain Multimodal Multihop Retrieval](https://aclanthology.org/2025.emnlp-main.1037/) ![](https://img.shields.io/badge/date-2025.10-red) 
 - [DREAM: Integrating Hierarchical Multimodal Retrieval with Multi-page Multimodal Language Model for Documents VQA](https://dl.acm.org/doi/abs/10.1145/3746027.3755357) ![](https://img.shields.io/badge/date-2025.10-red)
+- [ModernVBERT: Towards Smaller Visual Document Retrievers](https://arxiv.org/abs/2510.01149) ![](https://img.shields.io/badge/date-2025.10-red)
+- [RegionRAG: Region-level Retrieval-Augmented Generation for Visual Document Understanding](https://arxiv.org/abs/2510.27261) ![](https://img.shields.io/badge/date-2025.10-red)
+- [LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding](https://arxiv.org/abs/2510.07233) ![](https://img.shields.io/badge/date-2025.10-red)
 - [One Pic is All it Takes: Poisoning Visual Document Retrieval Augmented Generation with a Single Image](https://kclpure.kcl.ac.uk/ws/portalfiles/portal/338537349/2504.02132v2.pdf) ![](https://img.shields.io/badge/date-2025.04-red)
 - [SV-RAG: LoRA-Contextualizing Adaptation of MLLMs for Long Document Understanding](https://arxiv.org/abs/2411.01106) ![](https://img.shields.io/badge/date-2025.03-red)
 - [ColPali: Efficient Document Retrieval with Vision Language Models](https://arxiv.org/abs/2407.01449) ![](https://img.shields.io/badge/date-2025.02-red)
@@ -329,6 +385,9 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 #### 🥇🥈 Re-ranking Strategies
 ##### 🎯 Optimized Example Selection
+- [CLIMB: Confidence-Guided Complementary Evidence for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2610.03421) ![](https://img.shields.io/badge/date-2026.10-red)
+- [Hypergraph-Enhanced Evidence Selection for Long-Context Multimodal Document QA](https://arxiv.org/abs/2610.35542) ![](https://img.shields.io/badge/date-2026.10-red)
+- [RAVA: Retrieval-Augmented Viewpoint Alignment for Subject-Driven Image Generation](https://arxiv.org/abs/2606.17619) ![](https://img.shields.io/badge/date-2026.06-red)
 - [Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach](https://arxiv.org/abs/2407.00978) ![](https://img.shields.io/badge/date-2024.12-red)
 - [MSIER: How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning?](https://aclanthology.org/2024.emnlp-main.305/) ![](https://img.shields.io/badge/date-2024.11-red)
 - [RULE: Reliable Multimodal RAG for Factuality in Medical Vision Language Models](https://aclanthology.org/2024.emnlp-main.62/) ![](https://img.shields.io/badge/date-2024.11-red)
@@ -336,6 +395,14 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [RAMM: Retrieval-augmented Biomedical Visual Question Answering with Multi-modal Pre-training](https://dl.acm.org/doi/10.1145/3581783.3611830) ![](https://img.shields.io/badge/date-2023.10-red)
   
 ##### 🧮 Relevance Score Evaluation
+- [A Reranker for Orchestrating Heterogeneous Speech and Text Retrievers](https://arxiv.org/abs/2608.26194) ![](https://img.shields.io/badge/date-2026.08-red)
+- [MMAgent-R<sup>2</sup>: Learning to Rerank and Reject for Agentic mRAG](https://arxiv.org/abs/2607.07383) ![](https://img.shields.io/badge/date-2026.07-red)
+- [Ground Then Rank: Revisiting Knowledge-Based VQA with Training-Free Entity Identification](https://arxiv.org/abs/2606.23881) ![](https://img.shields.io/badge/date-2026.06-red)
+- [Very Efficient Listwise Multimodal Reranking for Long Documents](https://arxiv.org/abs/2605.11864) ![](https://img.shields.io/badge/date-2026.05-red)
+- [Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.13277) ![](https://img.shields.io/badge/date-2026.05-red)
+- [MEG-RAG: Quantifying Multi-modal Evidence Grounding for Evidence Selection in RAG](https://arxiv.org/abs/2604.24564) ![](https://img.shields.io/badge/date-2026.04-red)
+- [Region-R1: Reinforcing Query-Side Region Cropping for Multi-Modal Re-Ranking](https://arxiv.org/abs/2604.05268) ![](https://img.shields.io/badge/date-2026.04-red)
+- [V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034) ![](https://img.shields.io/badge/date-2026.02-red)
 - [Re-ranking the Context for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2501.04695) ![](https://img.shields.io/badge/date-2025.01-red)
 - [RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance](https://arxiv.org/abs/2501.03995) ![](https://img.shields.io/badge/date-2025.01-red)
 - [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://arxiv.org/abs/2411.15041) ![](https://img.shields.io/badge/date-2024.11-red)
@@ -347,6 +414,10 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 
 ##### ⏳ Filtering Mechanisms
+- [Doc-REFRAG: Rethinking Multimodal Document Retrieval-Augmented Generation](https://arxiv.org/abs/2608.30163) ![](https://img.shields.io/badge/date-2026.08-red)
+- [Purifying Multimodal Retrieval: Fragment-Level Evidence Selection for RAG](https://arxiv.org/abs/2604.27600) ![](https://img.shields.io/badge/date-2026.04-red)
+- [AgenticOCR: Parsing Only What You Need for Efficient Retrieval-Augmented Generation](https://arxiv.org/abs/2602.24134) ![](https://img.shields.io/badge/date-2026.02-red)
+- [Knowledge-based Visual Question Answer with Multimodal Processing, Retrieval and Filtering](https://arxiv.org/abs/2510.14605) ![](https://img.shields.io/badge/date-2025.10-red)
 - [GME: Improving Universal Multimodal Retrieval by Multimodal LLMs](https://arxiv.org/abs/2412.16855) ![](https://img.shields.io/badge/date-2025.04-red)
 - [MM-Embed: Universal Multimodal Retrieval with Multimodal LLMs](https://arxiv.org/abs/2411.02571) ![](https://img.shields.io/badge/date-2025.02-red)
 - [MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://aclanthology.org/2025.coling-demos.13/) ![](https://img.shields.io/badge/date-2025.01-red)
@@ -356,6 +427,9 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 ### 🛠 Fusion Mechanisms
 #### 🎰 Score Fusion and Alignment
+- [UniHEAR: Unified Heterogeneous-Source Attentive Retrieval for Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2608.01147) ![](https://img.shields.io/badge/date-2026.08-red)
+- [BayesRAG: Probabilistic Mutual Evidence Corroboration for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2601.07329) ![](https://img.shields.io/badge/date-2026.01-red)
+- [MRD: Multi-resolution Retrieval-Detection Fusion for High-Resolution Image Understanding](https://arxiv.org/abs/2512.02906) ![](https://img.shields.io/badge/date-2025.12-red)
 - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311) ![](https://img.shields.io/badge/date-2025.03-red)
 - [VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents](https://arxiv.org/abs/2410.10594) ![](https://img.shields.io/badge/date-2025.03-red)
 - [Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering](https://arxiv.org/abs/2412.20927) ![](https://img.shields.io/badge/date-2024.12-red)
@@ -387,8 +461,11 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 #### 🧩 Unified Frameworks
 
+- [MMGraph-Agent: Agentic Multimodal RAG via Cache-Inspired Multimodal Knowledge HyperGraphs](https://arxiv.org/abs/2611.10657) ![](https://img.shields.io/badge/date-2026.11-red)
+- [Hypergraph-based Multimodal Retrieval-Augmented Generation with Incremental Refinement](https://arxiv.org/abs/2608.16628) ![](https://img.shields.io/badge/date-2026.08-red)
 - [M3KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation](https://arxiv.org/pdf/2512.20136) ![](https://img.shields.io/badge/date-2025.12-red)
 - [LUMA-RAG: Lifelong Multimodal Agents with Provably Stable Streaming Alignment](https://arxiv.org/pdf/2511.02371) ![](https://img.shields.io/badge/date-2025.11-red)
+- [MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation](https://arxiv.org/abs/2512.20626) ![](https://img.shields.io/badge/date-2025.11-red)
 - [ReT-2: Recurrence Meets Transformers for Universal Multimodal Retrieval](https://arxiv.org/abs/2509.08897) ![](https://img.shields.io/badge/date-2025.09-red)
 - [Hybrid RAG-Empowered Multi-Modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-Based Contract Approach](https://arxiv.org/abs/2407.00978) ![](https://img.shields.io/badge/date-2024.12-red)
 - [M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding](https://arxiv.org/pdf/2411.04952) ![](https://img.shields.io/badge/date-2024.11-red)
@@ -401,6 +478,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 ### 🚀 Augmentation Techniques
 #### 💰 Context-Enrichment 
+- [Open Multimodal Retrieval-Augmented Factual Image Generation](https://arxiv.org/abs/2510.22521) ![](https://img.shields.io/badge/date-2025.10-red)
 - [Enhanced Multimodal RAG-LLM for Accurate Visual Question Answering](https://arxiv.org/abs/2412.20927) ![](https://img.shields.io/badge/date-2024.12-red)
 - [Video-RAG: Visually-aligned Retrieval-Augmented Long Video Comprehension](https://arxiv.org/abs/2411.13093) ![](https://img.shields.io/badge/date-2024.12-red)
 - [Multi-Level Information Retrieval Augmented Generation for Knowledge-based Visual Question Answering](https://aclanthology.org/2024.emnlp-main.922/) ![](https://img.shields.io/badge/date-2024.11-red) 
@@ -409,6 +487,12 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs](https://openaccess.thecvf.com/content/CVPR2024/html/Caffagni_Wiki-LLaVA_Hierarchical_Retrieval-Augmented_Generation_for_Multimodal_LLMs_CVPR_2024_paper.html) ![](https://img.shields.io/badge/date-2024.05-red)
 
 #### 🎡 Adaptive and Iterative Retrieval
+- [Routing Before Looking: Query-Adaptive Evidence Acquisition for Long-form Video Understanding](https://arxiv.org/abs/2608.20805) ![](https://img.shields.io/badge/date-2026.08-red)
+- [WikiSeeker: Rethinking the Role of Vision-Language Models in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2604.05818) ![](https://img.shields.io/badge/date-2026.04-red)
+- [MARA: A Multimodal Adaptive Retrieval-Augmented Framework for Document Question Answering](https://arxiv.org/abs/2604.16313) ![](https://img.shields.io/badge/date-2026.02-red)
+- [AVIR: Adaptive Visual In-Document Retrieval for Efficient Multi-Page Document Question Answering](https://arxiv.org/abs/2601.11976) ![](https://img.shields.io/badge/date-2026.01-red)
+- [PixSearch: Region-Grounded Retrieval for Knowledgeable Large Multimodal Models](https://arxiv.org/abs/2601.19060) ![](https://img.shields.io/badge/date-2026.01-red)
+- [Windsock is Dancing: Adaptive Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2510.22694) ![](https://img.shields.io/badge/date-2025.10-red)
 - [Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](https://arxiv.org/abs/2411.02937) ![](https://img.shields.io/badge/date-2025.05-red)
 - [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085) ![](https://img.shields.io/badge/date-2025.03-red)
 - [mR2AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA](https://api.semanticscholar.org/CorpusID:274192536) ![](https://img.shields.io/badge/date-2024.11-red)
@@ -421,6 +505,7 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 ### 🤖 Generation Techniques
 #### 🧠 In-Context Learning 
+- [Retrieving Counterfactuals Improves Visual In-Context Learning](https://arxiv.org/abs/2603.16737) ![](https://img.shields.io/badge/date-2026.03-red)
 - [UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models](https://arxiv.org/pdf/2405.10311) ![](https://img.shields.io/badge/date-2025.03-red)
 - [How Does the Textual Information Affect the Retrieval of Multimodal In-Context Learning? (MSIER)](https://aclanthology.org/2024.emnlp-main.305/) ![](https://img.shields.io/badge/date-2024.11-red)
 - [RAVEN: Multitask Retrieval Augmented Vision-Language Learning](https://arxiv.org/abs/2406.19150) ![](https://img.shields.io/badge/date-2024.06-red)
@@ -429,7 +514,12 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [Retrieval-Augmented Multimodal Language Modeling (RA-CM3)](https://proceedings.mlr.press/v202/yasunaga23a.html) ![](https://img.shields.io/badge/date-2023.06-red)
 
 #### 👨‍⚖️ Reasoning 
+- [DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2607.28580) ![](https://img.shields.io/badge/date-2026.07-red)
 - [SCMRAG 2.0: Efficient and Scalable Multi-hop Graph RAG with Multimodal Knowledge-Graphs and Agentic Self-Correction](https://openreview.net/forum?id=raeBnouheA) ![](https://img.shields.io/badge/date-2026.01-red)
+- [MMhops-R1: Multimodal Multi-hop Reasoning](https://arxiv.org/abs/2512.13573) ![](https://img.shields.io/badge/date-2025.12-red)
+- [MMRAG-RFT: Two-stage Reinforcement Fine-tuning for Explainable Multi-modal Retrieval-augmented Generation](https://arxiv.org/abs/2512.17194) ![](https://img.shields.io/badge/date-2025.12-red)
+- [Hybrid-DMKG: A Hybrid Reasoning Framework over Dynamic Multimodal Knowledge Graphs for Multimodal Multihop QA with Knowledge Editing](https://arxiv.org/abs/2512.00881) ![](https://img.shields.io/badge/date-2025.11-red)
+- [VisRAG2.0: Mitigating Visual Hallucinations via Evidence-Guided Multi-Image Reasoning in Visual Retrieval-Augmented Generation](https://arxiv.org/abs/2510.09733) ![](https://img.shields.io/badge/date-2025.10-red)
 - [Progressive Multimodal Reasoning via Active Retrieval](https://aclanthology.org/2025.acl-long.180.pdf) ![](https://img.shields.io/badge/date-2025.07-red)
 - [R2-MultiOmnia: Leading Multilingual Multimodal Reasoning via Self-Training](https://aclanthology.org/2025.acl-long.402/) ![](https://img.shields.io/badge/date-2025.07-red)
 - [MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification](https://aclanthology.org/2025.acl-long.689.pdf) ![](https://img.shields.io/badge/date-2025.02-red)
@@ -452,17 +542,32 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [InstructBLIP: towards general-purpose vision-language models with instruction tuning](https://dl.acm.org/doi/10.5555/3666122.3668264) ![](https://img.shields.io/badge/date-2023.12-red)
 
 #### 📂 Source Attribution and Evidence Transparency 
+- [Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels](https://arxiv.org/abs/2607.24651) ![](https://img.shields.io/badge/date-2026.07-red)
+- [Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation](https://arxiv.org/abs/2605.01284) ![](https://img.shields.io/badge/date-2026.05-red)
+- [Look as You Think: Unifying Reasoning and Visual Evidence Attribution for Verifiable Document RAG via Reinforcement Learning](https://arxiv.org/abs/2511.12003) ![](https://img.shields.io/badge/date-2025.11-red)
 - [MuRAR: A Simple and Effective Multimodal Retrieval and Answer Refinement Framework for Multimodal Question Answering](https://arxiv.org/abs/2408.08521) ![](https://img.shields.io/badge/date-2025.02-red)
 - [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://arxiv.org/abs/2412.14457) ![](https://img.shields.io/badge/date-2024.12-red) 
 - [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75.pdf) ![](https://img.shields.io/badge/date-2024.11-red)
 
 
 #### 📂 Agentic Generation and Interaction 
+- [M<sup>3</sup>Prune: Hierarchical Collaborative Pruning for Efficient Multi-Modal Multi-Agent Retrieval-Augmented Generation](https://arxiv.org/abs/2608.05967) ![](https://img.shields.io/badge/date-2026.08-red)
+- [EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval](https://arxiv.org/abs/2607.12764) ![](https://img.shields.io/badge/date-2026.07-red)
+- [OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents](https://arxiv.org/abs/2605.05185) ![](https://img.shields.io/badge/date-2026.05-red)
+- [VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning](https://arxiv.org/abs/2604.09508) ![](https://img.shields.io/badge/date-2026.04-red)
+- [GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://arxiv.org/abs/2603.26266) ![](https://img.shields.io/badge/date-2026.03-red)
+- [Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models](https://arxiv.org/abs/2601.22060) ![](https://img.shields.io/badge/date-2026.01-red)
+- [Efficient Multimodal Planning Agent for Visual Question-Answering](https://arxiv.org/abs/2601.20676) ![](https://img.shields.io/badge/date-2026.01-red)
+- [Skywork-R1V4: Toward Agentic Multimodal Intelligence through Interleaved Thinking with Images and DeepResearch](https://arxiv.org/abs/2512.02395) ![](https://img.shields.io/badge/date-2025.12-red)
+- [Mobile-Agent-RAG: Driving Smart Multi-Agent Coordination with Contextual Knowledge Empowerment for Long-Horizon Mobile Automation](https://arxiv.org/abs/2511.12254) ![](https://img.shields.io/badge/date-2025.11-red)
+- [DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search](https://arxiv.org/abs/2510.12801) ![](https://img.shields.io/badge/date-2025.10-red)
 - [AppAgent v2: Advanced Agent for Flexible Mobile Interactions](https://arxiv.org/abs/2408.11824) ![](https://img.shields.io/badge/date-2024.10-red)
 - [VISA: Retrieval Augmented Generation with Visual Source Attribution](https://arxiv.org/abs/2412.14457) ![](https://img.shields.io/badge/date-2024.12-red) 
 - [OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems](https://aclanthology.org/2024.emnlp-industry.75.pdf) ![](https://img.shields.io/badge/date-2024.11-red)
 
 ### 🔧 Training Strategies and Loss Function
+- [Wiki-R1: Incentivizing Multimodal Reasoning for Knowledge-based VQA via Data and Sampling Curriculum](https://arxiv.org/abs/2603.05256) ![](https://img.shields.io/badge/date-2026.03-red)
+- [Supervised Fine-Tuning or Contrastive Learning? Towards Better Multimodal LLM Reranking](https://arxiv.org/abs/2510.14824) ![](https://img.shields.io/badge/date-2025.10-red)
 - [FORTIFY: Generative Model Fine-tuning with ORPO for ReTrieval Expansion of InFormal NoisY Text](https://aclanthology.org/2025.magmar-1.13.pdf) ![](https://img.shields.io/badge/date-2025.07-red)
 - [Improving Medical Multi-modal Contrastive Learning with Expert Annotations](https://doi.org/10.1007/978-3-031-72661-3_27) ![](https://img.shields.io/badge/date-2024.11-red)
 - [EchoSight: Advancing Visual-Language Models with Wiki Knowledge](https://aclanthology.org/2024.findings-emnlp.83/) ![](https://img.shields.io/badge/date-2024.11-red)
@@ -473,6 +578,13 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 
 ### 🛡️ Robustness and Noise Management
+- [Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2608.20756) ![](https://img.shields.io/badge/date-2026.08-red)
+- [Lost at the End: Primacy Bias in Multimodal Retrieval-Augmented Question Answering](https://arxiv.org/abs/2606.16494) ![](https://img.shields.io/badge/date-2026.06-red)
+- [Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation](https://arxiv.org/abs/2605.10253) ![](https://img.shields.io/badge/date-2026.05-red)
+- [CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2602.23952) ![](https://img.shields.io/badge/date-2026.02-red)
+- [RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations](https://arxiv.org/abs/2602.22013) ![](https://img.shields.io/badge/date-2026.02-red)
+- [HV-Attack: Hierarchical Visual Attack for Multimodal Retrieval Augmented Generation](https://arxiv.org/abs/2511.15435) ![](https://img.shields.io/badge/date-2025.11-red)
+- [Medusa: Cross-Modal Transferable Adversarial Attacks on Multimodal Medical Retrieval-Augmented Generation](https://arxiv.org/abs/2511.19257) ![](https://img.shields.io/badge/date-2025.11-red)
 - [GenderBias-VL: Benchmarking Gender Bias in Vision Language Models via Counterfactual Probing]([https://arxiv.org/pdf/2503.13563](https://link.springer.com/article/10.1007/s11263-025-02556-7) ![](https://img.shields.io/badge/date-2025.09-red)
 - [AlzheimerRAG: Multimodal Retrieval Augmented Generation for PubMed articles]
 - [MES-RAG: Bringing Multi-modal, Entity-Storage, and Secure Enhancements to RAG](https://arxiv.org/pdf/2503.13563) ![](https://img.shields.io/badge/date-2025.03-red)
@@ -511,6 +623,8 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 
 
 #### 🩺 Healthcare and Medicine
+- [CliQ-RRG: Clinical-Knowledge Guided Disease-aware Visual-Textual Alignment for QA-Style Radiology Report Generation](https://arxiv.org/abs/2610.13059) ![](https://img.shields.io/badge/date-2026.10-red)
+- [MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation](https://arxiv.org/abs/2604.16175) ![](https://img.shields.io/badge/date-2026.04-red)
 - [Towards Multimodal Retrieval-Augmented Generation for Medical Visual Question Answering](https://www.researchsquare.com/article/rs-7752202/v1) ![](https://img.shields.io/badge/date-2025.10-red)  
 - [MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models](https://arxiv.org/abs/2410.13085) ![](https://img.shields.io/badge/date-2025.03-red)  
 - [Fact-aware multimodal retrieval augmentation for accurate medical radiology report generation](https://arxiv.org/abs/2407.15268) ![](https://img.shields.io/badge/date-2025.02-red)  
@@ -526,15 +640,20 @@ This survey offers a structured and comprehensive analysis of Multimodal RAG sys
 - [Retrieval Augmented Code Generation and Summarization](https://arxiv.org/abs/2108.11601) ![](https://img.shields.io/badge/date-2021.09-red)  
 
 #### 🕶️ Fashion and E-Commerce
+- [RA-CoA: Training-free Fashion Image Captioning via Retrieval-Augmented Chain-of-Attributes](https://arxiv.org/abs/2609.14100) ![](https://img.shields.io/badge/date-2026.09-red)
 - [Unifashion: A unified vision-language model for multimodal fashion retrieval and generation](https://arxiv.org/abs/2408.11305) ![](https://img.shields.io/badge/date-2024.10-red)  
 - [Multi-modal Retrieval Augmented Generation for Product Query](https://openurl.ebsco.com/openurl?sid=ebsco:plink:scholar&id=ebsco:gcd:180918461&crl=c) ![](https://img.shields.io/badge/date-2024.07-red)  
 - [LLM4DESIGN: An Automated Multi-Modal System for Architectural and Environmental Design](https://arxiv.org/abs/2407.12025) ![](https://img.shields.io/badge/date-2024.06-red)  
 
 #### 🤹 Entertainment and Social Computing
+- [Retrieval-Augmented Multimodal Model for Fake News Detection](https://arxiv.org/abs/2604.18112) ![](https://img.shields.io/badge/date-2026.04-red)
 - [SoccerRAG: Multimodal Soccer Information Retrieval via Natural Queries](https://ieeexplore.ieee.org/abstract/document/10859209?casa_token=seYROrW0u9oAAAAA:jclFZaX04YKUh3wKUzBZwKYDgQi_kbUPpFyJPO0HWSgiiqlF3bS9aagz3fUTc0dc9VihYJSiNQ) ![](https://img.shields.io/badge/date-2025.02-red)  
 - [Predicting Micro-video Popularity via Multi-modal Retrieval Augmentation](https://dl.acm.org/doi/abs/10.1145/3626772.3657929) ![](https://img.shields.io/badge/date-2024.07-red)  
 
 #### 🚗 Emerging Applications
+- [VRAG-DFD: Verifiable Retrieval-Augmentation for MLLM-based Deepfake Detection](https://arxiv.org/abs/2604.13660) ![](https://img.shields.io/badge/date-2026.04-red)
+- [Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation](https://arxiv.org/abs/2603.00500) ![](https://img.shields.io/badge/date-2026.02-red)
+- [CrisiSense-RAG: Crisis Sensing Multimodal Retrieval-Augmented Generation for Rapid Disaster Impact Assessment](https://arxiv.org/abs/2602.13239) ![](https://img.shields.io/badge/date-2026.01-red)
 - [ENWAR: A RAG-empowered Multi-Modal LLM Framework for Wireless Environment Perception](https://arxiv.org/abs/2410.18104) ![](https://img.shields.io/badge/date-2024.10-red)
 - [Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications](https://arxiv.org/abs/2410.21943) ![](https://img.shields.io/badge/date-2024.10-red)  
 - [Img2Loc: Revisiting image geolocalization using multi-modality foundation models and image-based retrieval-augmented generation](https://dl.acm.org/doi/abs/10.1145/3626772.3657673) ![](https://img.shields.io/badge/date-2024.07-red)
